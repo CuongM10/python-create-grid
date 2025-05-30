@@ -1,0 +1,6087 @@
+Danh sách kết nối giữa các node:
+Format: [số thứ tự node 1] - [số thứ tự node 2]: ([tọa độ node 1]) -> ([tọa độ node 2])
+
+Kết nối 1:
+Node 1 - Node 2: (0, 0) -> (5, 3)
+Khoảng cách: 5.83
+
+Kết nối 2:
+Node 2 - Node 3: (5, 3) -> (10, 0)
+Khoảng cách: 5.83
+
+Kết nối 3:
+Node 2 - Node 41: (5, 3) -> (0, 10)
+Khoảng cách: 8.60
+
+Kết nối 4:
+Node 2 - Node 43: (5, 3) -> (10, 10)
+Khoảng cách: 8.60
+
+Kết nối 5:
+Node 3 - Node 4: (10, 0) -> (15, 3)
+Khoảng cách: 5.83
+
+Kết nối 6:
+Node 4 - Node 5: (15, 3) -> (20, 0)
+Khoảng cách: 5.83
+
+Kết nối 7:
+Node 4 - Node 43: (15, 3) -> (10, 10)
+Khoảng cách: 8.60
+
+Kết nối 8:
+Node 4 - Node 45: (15, 3) -> (20, 10)
+Khoảng cách: 8.60
+
+Kết nối 9:
+Node 5 - Node 6: (20, 0) -> (25, 3)
+Khoảng cách: 5.83
+
+Kết nối 10:
+Node 6 - Node 7: (25, 3) -> (30, 0)
+Khoảng cách: 5.83
+
+Kết nối 11:
+Node 6 - Node 45: (25, 3) -> (20, 10)
+Khoảng cách: 8.60
+
+Kết nối 12:
+Node 6 - Node 47: (25, 3) -> (30, 10)
+Khoảng cách: 8.60
+
+Kết nối 13:
+Node 7 - Node 8: (30, 0) -> (35, 3)
+Khoảng cách: 5.83
+
+Kết nối 14:
+Node 8 - Node 9: (35, 3) -> (40, 0)
+Khoảng cách: 5.83
+
+Kết nối 15:
+Node 8 - Node 47: (35, 3) -> (30, 10)
+Khoảng cách: 8.60
+
+Kết nối 16:
+Node 8 - Node 49: (35, 3) -> (40, 10)
+Khoảng cách: 8.60
+
+Kết nối 17:
+Node 9 - Node 10: (40, 0) -> (45, 3)
+Khoảng cách: 5.83
+
+Kết nối 18:
+Node 10 - Node 11: (45, 3) -> (50, 0)
+Khoảng cách: 5.83
+
+Kết nối 19:
+Node 10 - Node 49: (45, 3) -> (40, 10)
+Khoảng cách: 8.60
+
+Kết nối 20:
+Node 10 - Node 51: (45, 3) -> (50, 10)
+Khoảng cách: 8.60
+
+Kết nối 21:
+Node 11 - Node 12: (50, 0) -> (55, 3)
+Khoảng cách: 5.83
+
+Kết nối 22:
+Node 12 - Node 13: (55, 3) -> (60, 0)
+Khoảng cách: 5.83
+
+Kết nối 23:
+Node 12 - Node 51: (55, 3) -> (50, 10)
+Khoảng cách: 8.60
+
+Kết nối 24:
+Node 12 - Node 53: (55, 3) -> (60, 10)
+Khoảng cách: 8.60
+
+Kết nối 25:
+Node 13 - Node 14: (60, 0) -> (65, 3)
+Khoảng cách: 5.83
+
+Kết nối 26:
+Node 14 - Node 15: (65, 3) -> (70, 0)
+Khoảng cách: 5.83
+
+Kết nối 27:
+Node 14 - Node 53: (65, 3) -> (60, 10)
+Khoảng cách: 8.60
+
+Kết nối 28:
+Node 14 - Node 55: (65, 3) -> (70, 10)
+Khoảng cách: 8.60
+
+Kết nối 29:
+Node 15 - Node 16: (70, 0) -> (75, 3)
+Khoảng cách: 5.83
+
+Kết nối 30:
+Node 16 - Node 17: (75, 3) -> (80, 0)
+Khoảng cách: 5.83
+
+Kết nối 31:
+Node 16 - Node 55: (75, 3) -> (70, 10)
+Khoảng cách: 8.60
+
+Kết nối 32:
+Node 16 - Node 57: (75, 3) -> (80, 10)
+Khoảng cách: 8.60
+
+Kết nối 33:
+Node 17 - Node 18: (80, 0) -> (85, 3)
+Khoảng cách: 5.83
+
+Kết nối 34:
+Node 18 - Node 19: (85, 3) -> (90, 0)
+Khoảng cách: 5.83
+
+Kết nối 35:
+Node 18 - Node 57: (85, 3) -> (80, 10)
+Khoảng cách: 8.60
+
+Kết nối 36:
+Node 18 - Node 59: (85, 3) -> (90, 10)
+Khoảng cách: 8.60
+
+Kết nối 37:
+Node 19 - Node 20: (90, 0) -> (95, 3)
+Khoảng cách: 5.83
+
+Kết nối 38:
+Node 20 - Node 21: (95, 3) -> (100, 0)
+Khoảng cách: 5.83
+
+Kết nối 39:
+Node 20 - Node 59: (95, 3) -> (90, 10)
+Khoảng cách: 8.60
+
+Kết nối 40:
+Node 20 - Node 61: (95, 3) -> (100, 10)
+Khoảng cách: 8.60
+
+Kết nối 41:
+Node 21 - Node 22: (100, 0) -> (105, 3)
+Khoảng cách: 5.83
+
+Kết nối 42:
+Node 22 - Node 23: (105, 3) -> (110, 0)
+Khoảng cách: 5.83
+
+Kết nối 43:
+Node 22 - Node 61: (105, 3) -> (100, 10)
+Khoảng cách: 8.60
+
+Kết nối 44:
+Node 22 - Node 63: (105, 3) -> (110, 10)
+Khoảng cách: 8.60
+
+Kết nối 45:
+Node 23 - Node 24: (110, 0) -> (115, 3)
+Khoảng cách: 5.83
+
+Kết nối 46:
+Node 24 - Node 25: (115, 3) -> (120, 0)
+Khoảng cách: 5.83
+
+Kết nối 47:
+Node 24 - Node 63: (115, 3) -> (110, 10)
+Khoảng cách: 8.60
+
+Kết nối 48:
+Node 24 - Node 65: (115, 3) -> (120, 10)
+Khoảng cách: 8.60
+
+Kết nối 49:
+Node 25 - Node 26: (120, 0) -> (125, 3)
+Khoảng cách: 5.83
+
+Kết nối 50:
+Node 26 - Node 27: (125, 3) -> (130, 0)
+Khoảng cách: 5.83
+
+Kết nối 51:
+Node 26 - Node 65: (125, 3) -> (120, 10)
+Khoảng cách: 8.60
+
+Kết nối 52:
+Node 26 - Node 67: (125, 3) -> (130, 10)
+Khoảng cách: 8.60
+
+Kết nối 53:
+Node 27 - Node 28: (130, 0) -> (135, 3)
+Khoảng cách: 5.83
+
+Kết nối 54:
+Node 28 - Node 29: (135, 3) -> (140, 0)
+Khoảng cách: 5.83
+
+Kết nối 55:
+Node 28 - Node 67: (135, 3) -> (130, 10)
+Khoảng cách: 8.60
+
+Kết nối 56:
+Node 28 - Node 69: (135, 3) -> (140, 10)
+Khoảng cách: 8.60
+
+Kết nối 57:
+Node 29 - Node 30: (140, 0) -> (145, 3)
+Khoảng cách: 5.83
+
+Kết nối 58:
+Node 30 - Node 31: (145, 3) -> (150, 0)
+Khoảng cách: 5.83
+
+Kết nối 59:
+Node 30 - Node 69: (145, 3) -> (140, 10)
+Khoảng cách: 8.60
+
+Kết nối 60:
+Node 30 - Node 71: (145, 3) -> (150, 10)
+Khoảng cách: 8.60
+
+Kết nối 61:
+Node 31 - Node 32: (150, 0) -> (155, 3)
+Khoảng cách: 5.83
+
+Kết nối 62:
+Node 32 - Node 33: (155, 3) -> (160, 0)
+Khoảng cách: 5.83
+
+Kết nối 63:
+Node 32 - Node 71: (155, 3) -> (150, 10)
+Khoảng cách: 8.60
+
+Kết nối 64:
+Node 32 - Node 73: (155, 3) -> (160, 10)
+Khoảng cách: 8.60
+
+Kết nối 65:
+Node 33 - Node 34: (160, 0) -> (165, 3)
+Khoảng cách: 5.83
+
+Kết nối 66:
+Node 34 - Node 35: (165, 3) -> (170, 0)
+Khoảng cách: 5.83
+
+Kết nối 67:
+Node 34 - Node 73: (165, 3) -> (160, 10)
+Khoảng cách: 8.60
+
+Kết nối 68:
+Node 34 - Node 75: (165, 3) -> (170, 10)
+Khoảng cách: 8.60
+
+Kết nối 69:
+Node 35 - Node 36: (170, 0) -> (175, 3)
+Khoảng cách: 5.83
+
+Kết nối 70:
+Node 36 - Node 37: (175, 3) -> (180, 0)
+Khoảng cách: 5.83
+
+Kết nối 71:
+Node 36 - Node 75: (175, 3) -> (170, 10)
+Khoảng cách: 8.60
+
+Kết nối 72:
+Node 36 - Node 77: (175, 3) -> (180, 10)
+Khoảng cách: 8.60
+
+Kết nối 73:
+Node 37 - Node 38: (180, 0) -> (185, 3)
+Khoảng cách: 5.83
+
+Kết nối 74:
+Node 38 - Node 39: (185, 3) -> (190, 0)
+Khoảng cách: 5.83
+
+Kết nối 75:
+Node 38 - Node 77: (185, 3) -> (180, 10)
+Khoảng cách: 8.60
+
+Kết nối 76:
+Node 38 - Node 79: (185, 3) -> (190, 10)
+Khoảng cách: 8.60
+
+Kết nối 77:
+Node 39 - Node 40: (190, 0) -> (195, 3)
+Khoảng cách: 5.83
+
+Kết nối 78:
+Node 40 - Node 79: (195, 3) -> (190, 10)
+Khoảng cách: 8.60
+
+Kết nối 79:
+Node 41 - Node 42: (0, 10) -> (5, 13)
+Khoảng cách: 5.83
+
+Kết nối 80:
+Node 42 - Node 43: (5, 13) -> (10, 10)
+Khoảng cách: 5.83
+
+Kết nối 81:
+Node 42 - Node 81: (5, 13) -> (0, 20)
+Khoảng cách: 8.60
+
+Kết nối 82:
+Node 42 - Node 83: (5, 13) -> (10, 20)
+Khoảng cách: 8.60
+
+Kết nối 83:
+Node 43 - Node 44: (10, 10) -> (15, 13)
+Khoảng cách: 5.83
+
+Kết nối 84:
+Node 44 - Node 45: (15, 13) -> (20, 10)
+Khoảng cách: 5.83
+
+Kết nối 85:
+Node 44 - Node 83: (15, 13) -> (10, 20)
+Khoảng cách: 8.60
+
+Kết nối 86:
+Node 44 - Node 85: (15, 13) -> (20, 20)
+Khoảng cách: 8.60
+
+Kết nối 87:
+Node 45 - Node 46: (20, 10) -> (25, 13)
+Khoảng cách: 5.83
+
+Kết nối 88:
+Node 46 - Node 47: (25, 13) -> (30, 10)
+Khoảng cách: 5.83
+
+Kết nối 89:
+Node 46 - Node 85: (25, 13) -> (20, 20)
+Khoảng cách: 8.60
+
+Kết nối 90:
+Node 46 - Node 87: (25, 13) -> (30, 20)
+Khoảng cách: 8.60
+
+Kết nối 91:
+Node 47 - Node 48: (30, 10) -> (35, 13)
+Khoảng cách: 5.83
+
+Kết nối 92:
+Node 48 - Node 49: (35, 13) -> (40, 10)
+Khoảng cách: 5.83
+
+Kết nối 93:
+Node 48 - Node 87: (35, 13) -> (30, 20)
+Khoảng cách: 8.60
+
+Kết nối 94:
+Node 48 - Node 89: (35, 13) -> (40, 20)
+Khoảng cách: 8.60
+
+Kết nối 95:
+Node 49 - Node 50: (40, 10) -> (45, 13)
+Khoảng cách: 5.83
+
+Kết nối 96:
+Node 50 - Node 51: (45, 13) -> (50, 10)
+Khoảng cách: 5.83
+
+Kết nối 97:
+Node 50 - Node 89: (45, 13) -> (40, 20)
+Khoảng cách: 8.60
+
+Kết nối 98:
+Node 50 - Node 91: (45, 13) -> (50, 20)
+Khoảng cách: 8.60
+
+Kết nối 99:
+Node 51 - Node 52: (50, 10) -> (55, 13)
+Khoảng cách: 5.83
+
+Kết nối 100:
+Node 52 - Node 53: (55, 13) -> (60, 10)
+Khoảng cách: 5.83
+
+Kết nối 101:
+Node 52 - Node 91: (55, 13) -> (50, 20)
+Khoảng cách: 8.60
+
+Kết nối 102:
+Node 52 - Node 93: (55, 13) -> (60, 20)
+Khoảng cách: 8.60
+
+Kết nối 103:
+Node 53 - Node 54: (60, 10) -> (65, 13)
+Khoảng cách: 5.83
+
+Kết nối 104:
+Node 54 - Node 55: (65, 13) -> (70, 10)
+Khoảng cách: 5.83
+
+Kết nối 105:
+Node 54 - Node 93: (65, 13) -> (60, 20)
+Khoảng cách: 8.60
+
+Kết nối 106:
+Node 54 - Node 95: (65, 13) -> (70, 20)
+Khoảng cách: 8.60
+
+Kết nối 107:
+Node 55 - Node 56: (70, 10) -> (75, 13)
+Khoảng cách: 5.83
+
+Kết nối 108:
+Node 56 - Node 57: (75, 13) -> (80, 10)
+Khoảng cách: 5.83
+
+Kết nối 109:
+Node 56 - Node 95: (75, 13) -> (70, 20)
+Khoảng cách: 8.60
+
+Kết nối 110:
+Node 56 - Node 97: (75, 13) -> (80, 20)
+Khoảng cách: 8.60
+
+Kết nối 111:
+Node 57 - Node 58: (80, 10) -> (85, 13)
+Khoảng cách: 5.83
+
+Kết nối 112:
+Node 58 - Node 59: (85, 13) -> (90, 10)
+Khoảng cách: 5.83
+
+Kết nối 113:
+Node 58 - Node 97: (85, 13) -> (80, 20)
+Khoảng cách: 8.60
+
+Kết nối 114:
+Node 58 - Node 99: (85, 13) -> (90, 20)
+Khoảng cách: 8.60
+
+Kết nối 115:
+Node 59 - Node 60: (90, 10) -> (95, 13)
+Khoảng cách: 5.83
+
+Kết nối 116:
+Node 60 - Node 61: (95, 13) -> (100, 10)
+Khoảng cách: 5.83
+
+Kết nối 117:
+Node 60 - Node 99: (95, 13) -> (90, 20)
+Khoảng cách: 8.60
+
+Kết nối 118:
+Node 60 - Node 101: (95, 13) -> (100, 20)
+Khoảng cách: 8.60
+
+Kết nối 119:
+Node 61 - Node 62: (100, 10) -> (105, 13)
+Khoảng cách: 5.83
+
+Kết nối 120:
+Node 62 - Node 63: (105, 13) -> (110, 10)
+Khoảng cách: 5.83
+
+Kết nối 121:
+Node 62 - Node 101: (105, 13) -> (100, 20)
+Khoảng cách: 8.60
+
+Kết nối 122:
+Node 62 - Node 103: (105, 13) -> (110, 20)
+Khoảng cách: 8.60
+
+Kết nối 123:
+Node 63 - Node 64: (110, 10) -> (115, 13)
+Khoảng cách: 5.83
+
+Kết nối 124:
+Node 64 - Node 65: (115, 13) -> (120, 10)
+Khoảng cách: 5.83
+
+Kết nối 125:
+Node 64 - Node 103: (115, 13) -> (110, 20)
+Khoảng cách: 8.60
+
+Kết nối 126:
+Node 64 - Node 105: (115, 13) -> (120, 20)
+Khoảng cách: 8.60
+
+Kết nối 127:
+Node 65 - Node 66: (120, 10) -> (125, 13)
+Khoảng cách: 5.83
+
+Kết nối 128:
+Node 66 - Node 67: (125, 13) -> (130, 10)
+Khoảng cách: 5.83
+
+Kết nối 129:
+Node 66 - Node 105: (125, 13) -> (120, 20)
+Khoảng cách: 8.60
+
+Kết nối 130:
+Node 66 - Node 107: (125, 13) -> (130, 20)
+Khoảng cách: 8.60
+
+Kết nối 131:
+Node 67 - Node 68: (130, 10) -> (135, 13)
+Khoảng cách: 5.83
+
+Kết nối 132:
+Node 68 - Node 69: (135, 13) -> (140, 10)
+Khoảng cách: 5.83
+
+Kết nối 133:
+Node 68 - Node 107: (135, 13) -> (130, 20)
+Khoảng cách: 8.60
+
+Kết nối 134:
+Node 68 - Node 109: (135, 13) -> (140, 20)
+Khoảng cách: 8.60
+
+Kết nối 135:
+Node 69 - Node 70: (140, 10) -> (145, 13)
+Khoảng cách: 5.83
+
+Kết nối 136:
+Node 70 - Node 71: (145, 13) -> (150, 10)
+Khoảng cách: 5.83
+
+Kết nối 137:
+Node 70 - Node 109: (145, 13) -> (140, 20)
+Khoảng cách: 8.60
+
+Kết nối 138:
+Node 70 - Node 111: (145, 13) -> (150, 20)
+Khoảng cách: 8.60
+
+Kết nối 139:
+Node 71 - Node 72: (150, 10) -> (155, 13)
+Khoảng cách: 5.83
+
+Kết nối 140:
+Node 72 - Node 73: (155, 13) -> (160, 10)
+Khoảng cách: 5.83
+
+Kết nối 141:
+Node 72 - Node 111: (155, 13) -> (150, 20)
+Khoảng cách: 8.60
+
+Kết nối 142:
+Node 72 - Node 113: (155, 13) -> (160, 20)
+Khoảng cách: 8.60
+
+Kết nối 143:
+Node 73 - Node 74: (160, 10) -> (165, 13)
+Khoảng cách: 5.83
+
+Kết nối 144:
+Node 74 - Node 75: (165, 13) -> (170, 10)
+Khoảng cách: 5.83
+
+Kết nối 145:
+Node 74 - Node 113: (165, 13) -> (160, 20)
+Khoảng cách: 8.60
+
+Kết nối 146:
+Node 74 - Node 115: (165, 13) -> (170, 20)
+Khoảng cách: 8.60
+
+Kết nối 147:
+Node 75 - Node 76: (170, 10) -> (175, 13)
+Khoảng cách: 5.83
+
+Kết nối 148:
+Node 76 - Node 77: (175, 13) -> (180, 10)
+Khoảng cách: 5.83
+
+Kết nối 149:
+Node 76 - Node 115: (175, 13) -> (170, 20)
+Khoảng cách: 8.60
+
+Kết nối 150:
+Node 76 - Node 117: (175, 13) -> (180, 20)
+Khoảng cách: 8.60
+
+Kết nối 151:
+Node 77 - Node 78: (180, 10) -> (185, 13)
+Khoảng cách: 5.83
+
+Kết nối 152:
+Node 78 - Node 79: (185, 13) -> (190, 10)
+Khoảng cách: 5.83
+
+Kết nối 153:
+Node 78 - Node 117: (185, 13) -> (180, 20)
+Khoảng cách: 8.60
+
+Kết nối 154:
+Node 78 - Node 119: (185, 13) -> (190, 20)
+Khoảng cách: 8.60
+
+Kết nối 155:
+Node 79 - Node 80: (190, 10) -> (195, 13)
+Khoảng cách: 5.83
+
+Kết nối 156:
+Node 80 - Node 119: (195, 13) -> (190, 20)
+Khoảng cách: 8.60
+
+Kết nối 157:
+Node 81 - Node 82: (0, 20) -> (5, 23)
+Khoảng cách: 5.83
+
+Kết nối 158:
+Node 82 - Node 83: (5, 23) -> (10, 20)
+Khoảng cách: 5.83
+
+Kết nối 159:
+Node 82 - Node 121: (5, 23) -> (0, 30)
+Khoảng cách: 8.60
+
+Kết nối 160:
+Node 82 - Node 123: (5, 23) -> (10, 30)
+Khoảng cách: 8.60
+
+Kết nối 161:
+Node 83 - Node 84: (10, 20) -> (15, 23)
+Khoảng cách: 5.83
+
+Kết nối 162:
+Node 84 - Node 85: (15, 23) -> (20, 20)
+Khoảng cách: 5.83
+
+Kết nối 163:
+Node 84 - Node 123: (15, 23) -> (10, 30)
+Khoảng cách: 8.60
+
+Kết nối 164:
+Node 84 - Node 125: (15, 23) -> (20, 30)
+Khoảng cách: 8.60
+
+Kết nối 165:
+Node 85 - Node 86: (20, 20) -> (25, 23)
+Khoảng cách: 5.83
+
+Kết nối 166:
+Node 86 - Node 87: (25, 23) -> (30, 20)
+Khoảng cách: 5.83
+
+Kết nối 167:
+Node 86 - Node 125: (25, 23) -> (20, 30)
+Khoảng cách: 8.60
+
+Kết nối 168:
+Node 86 - Node 127: (25, 23) -> (30, 30)
+Khoảng cách: 8.60
+
+Kết nối 169:
+Node 87 - Node 88: (30, 20) -> (35, 23)
+Khoảng cách: 5.83
+
+Kết nối 170:
+Node 88 - Node 89: (35, 23) -> (40, 20)
+Khoảng cách: 5.83
+
+Kết nối 171:
+Node 88 - Node 127: (35, 23) -> (30, 30)
+Khoảng cách: 8.60
+
+Kết nối 172:
+Node 88 - Node 129: (35, 23) -> (40, 30)
+Khoảng cách: 8.60
+
+Kết nối 173:
+Node 89 - Node 90: (40, 20) -> (45, 23)
+Khoảng cách: 5.83
+
+Kết nối 174:
+Node 90 - Node 91: (45, 23) -> (50, 20)
+Khoảng cách: 5.83
+
+Kết nối 175:
+Node 90 - Node 129: (45, 23) -> (40, 30)
+Khoảng cách: 8.60
+
+Kết nối 176:
+Node 90 - Node 131: (45, 23) -> (50, 30)
+Khoảng cách: 8.60
+
+Kết nối 177:
+Node 91 - Node 92: (50, 20) -> (55, 23)
+Khoảng cách: 5.83
+
+Kết nối 178:
+Node 92 - Node 93: (55, 23) -> (60, 20)
+Khoảng cách: 5.83
+
+Kết nối 179:
+Node 92 - Node 131: (55, 23) -> (50, 30)
+Khoảng cách: 8.60
+
+Kết nối 180:
+Node 92 - Node 133: (55, 23) -> (60, 30)
+Khoảng cách: 8.60
+
+Kết nối 181:
+Node 93 - Node 94: (60, 20) -> (65, 23)
+Khoảng cách: 5.83
+
+Kết nối 182:
+Node 94 - Node 95: (65, 23) -> (70, 20)
+Khoảng cách: 5.83
+
+Kết nối 183:
+Node 94 - Node 133: (65, 23) -> (60, 30)
+Khoảng cách: 8.60
+
+Kết nối 184:
+Node 94 - Node 135: (65, 23) -> (70, 30)
+Khoảng cách: 8.60
+
+Kết nối 185:
+Node 95 - Node 96: (70, 20) -> (75, 23)
+Khoảng cách: 5.83
+
+Kết nối 186:
+Node 96 - Node 97: (75, 23) -> (80, 20)
+Khoảng cách: 5.83
+
+Kết nối 187:
+Node 96 - Node 135: (75, 23) -> (70, 30)
+Khoảng cách: 8.60
+
+Kết nối 188:
+Node 96 - Node 137: (75, 23) -> (80, 30)
+Khoảng cách: 8.60
+
+Kết nối 189:
+Node 97 - Node 98: (80, 20) -> (85, 23)
+Khoảng cách: 5.83
+
+Kết nối 190:
+Node 98 - Node 99: (85, 23) -> (90, 20)
+Khoảng cách: 5.83
+
+Kết nối 191:
+Node 98 - Node 137: (85, 23) -> (80, 30)
+Khoảng cách: 8.60
+
+Kết nối 192:
+Node 98 - Node 139: (85, 23) -> (90, 30)
+Khoảng cách: 8.60
+
+Kết nối 193:
+Node 99 - Node 100: (90, 20) -> (95, 23)
+Khoảng cách: 5.83
+
+Kết nối 194:
+Node 100 - Node 101: (95, 23) -> (100, 20)
+Khoảng cách: 5.83
+
+Kết nối 195:
+Node 100 - Node 139: (95, 23) -> (90, 30)
+Khoảng cách: 8.60
+
+Kết nối 196:
+Node 100 - Node 141: (95, 23) -> (100, 30)
+Khoảng cách: 8.60
+
+Kết nối 197:
+Node 101 - Node 102: (100, 20) -> (105, 23)
+Khoảng cách: 5.83
+
+Kết nối 198:
+Node 102 - Node 103: (105, 23) -> (110, 20)
+Khoảng cách: 5.83
+
+Kết nối 199:
+Node 102 - Node 141: (105, 23) -> (100, 30)
+Khoảng cách: 8.60
+
+Kết nối 200:
+Node 102 - Node 143: (105, 23) -> (110, 30)
+Khoảng cách: 8.60
+
+Kết nối 201:
+Node 103 - Node 104: (110, 20) -> (115, 23)
+Khoảng cách: 5.83
+
+Kết nối 202:
+Node 104 - Node 105: (115, 23) -> (120, 20)
+Khoảng cách: 5.83
+
+Kết nối 203:
+Node 104 - Node 143: (115, 23) -> (110, 30)
+Khoảng cách: 8.60
+
+Kết nối 204:
+Node 104 - Node 145: (115, 23) -> (120, 30)
+Khoảng cách: 8.60
+
+Kết nối 205:
+Node 105 - Node 106: (120, 20) -> (125, 23)
+Khoảng cách: 5.83
+
+Kết nối 206:
+Node 106 - Node 107: (125, 23) -> (130, 20)
+Khoảng cách: 5.83
+
+Kết nối 207:
+Node 106 - Node 145: (125, 23) -> (120, 30)
+Khoảng cách: 8.60
+
+Kết nối 208:
+Node 106 - Node 147: (125, 23) -> (130, 30)
+Khoảng cách: 8.60
+
+Kết nối 209:
+Node 107 - Node 108: (130, 20) -> (135, 23)
+Khoảng cách: 5.83
+
+Kết nối 210:
+Node 108 - Node 109: (135, 23) -> (140, 20)
+Khoảng cách: 5.83
+
+Kết nối 211:
+Node 108 - Node 147: (135, 23) -> (130, 30)
+Khoảng cách: 8.60
+
+Kết nối 212:
+Node 108 - Node 149: (135, 23) -> (140, 30)
+Khoảng cách: 8.60
+
+Kết nối 213:
+Node 109 - Node 110: (140, 20) -> (145, 23)
+Khoảng cách: 5.83
+
+Kết nối 214:
+Node 110 - Node 111: (145, 23) -> (150, 20)
+Khoảng cách: 5.83
+
+Kết nối 215:
+Node 110 - Node 149: (145, 23) -> (140, 30)
+Khoảng cách: 8.60
+
+Kết nối 216:
+Node 110 - Node 151: (145, 23) -> (150, 30)
+Khoảng cách: 8.60
+
+Kết nối 217:
+Node 111 - Node 112: (150, 20) -> (155, 23)
+Khoảng cách: 5.83
+
+Kết nối 218:
+Node 112 - Node 113: (155, 23) -> (160, 20)
+Khoảng cách: 5.83
+
+Kết nối 219:
+Node 112 - Node 151: (155, 23) -> (150, 30)
+Khoảng cách: 8.60
+
+Kết nối 220:
+Node 112 - Node 153: (155, 23) -> (160, 30)
+Khoảng cách: 8.60
+
+Kết nối 221:
+Node 113 - Node 114: (160, 20) -> (165, 23)
+Khoảng cách: 5.83
+
+Kết nối 222:
+Node 114 - Node 115: (165, 23) -> (170, 20)
+Khoảng cách: 5.83
+
+Kết nối 223:
+Node 114 - Node 153: (165, 23) -> (160, 30)
+Khoảng cách: 8.60
+
+Kết nối 224:
+Node 114 - Node 155: (165, 23) -> (170, 30)
+Khoảng cách: 8.60
+
+Kết nối 225:
+Node 115 - Node 116: (170, 20) -> (175, 23)
+Khoảng cách: 5.83
+
+Kết nối 226:
+Node 116 - Node 117: (175, 23) -> (180, 20)
+Khoảng cách: 5.83
+
+Kết nối 227:
+Node 116 - Node 155: (175, 23) -> (170, 30)
+Khoảng cách: 8.60
+
+Kết nối 228:
+Node 116 - Node 157: (175, 23) -> (180, 30)
+Khoảng cách: 8.60
+
+Kết nối 229:
+Node 117 - Node 118: (180, 20) -> (185, 23)
+Khoảng cách: 5.83
+
+Kết nối 230:
+Node 118 - Node 119: (185, 23) -> (190, 20)
+Khoảng cách: 5.83
+
+Kết nối 231:
+Node 118 - Node 157: (185, 23) -> (180, 30)
+Khoảng cách: 8.60
+
+Kết nối 232:
+Node 118 - Node 159: (185, 23) -> (190, 30)
+Khoảng cách: 8.60
+
+Kết nối 233:
+Node 119 - Node 120: (190, 20) -> (195, 23)
+Khoảng cách: 5.83
+
+Kết nối 234:
+Node 120 - Node 159: (195, 23) -> (190, 30)
+Khoảng cách: 8.60
+
+Kết nối 235:
+Node 121 - Node 122: (0, 30) -> (5, 33)
+Khoảng cách: 5.83
+
+Kết nối 236:
+Node 122 - Node 123: (5, 33) -> (10, 30)
+Khoảng cách: 5.83
+
+Kết nối 237:
+Node 122 - Node 161: (5, 33) -> (0, 40)
+Khoảng cách: 8.60
+
+Kết nối 238:
+Node 122 - Node 163: (5, 33) -> (10, 40)
+Khoảng cách: 8.60
+
+Kết nối 239:
+Node 123 - Node 124: (10, 30) -> (15, 33)
+Khoảng cách: 5.83
+
+Kết nối 240:
+Node 124 - Node 125: (15, 33) -> (20, 30)
+Khoảng cách: 5.83
+
+Kết nối 241:
+Node 124 - Node 163: (15, 33) -> (10, 40)
+Khoảng cách: 8.60
+
+Kết nối 242:
+Node 124 - Node 165: (15, 33) -> (20, 40)
+Khoảng cách: 8.60
+
+Kết nối 243:
+Node 125 - Node 126: (20, 30) -> (25, 33)
+Khoảng cách: 5.83
+
+Kết nối 244:
+Node 126 - Node 127: (25, 33) -> (30, 30)
+Khoảng cách: 5.83
+
+Kết nối 245:
+Node 126 - Node 165: (25, 33) -> (20, 40)
+Khoảng cách: 8.60
+
+Kết nối 246:
+Node 126 - Node 167: (25, 33) -> (30, 40)
+Khoảng cách: 8.60
+
+Kết nối 247:
+Node 127 - Node 128: (30, 30) -> (35, 33)
+Khoảng cách: 5.83
+
+Kết nối 248:
+Node 128 - Node 129: (35, 33) -> (40, 30)
+Khoảng cách: 5.83
+
+Kết nối 249:
+Node 128 - Node 167: (35, 33) -> (30, 40)
+Khoảng cách: 8.60
+
+Kết nối 250:
+Node 128 - Node 169: (35, 33) -> (40, 40)
+Khoảng cách: 8.60
+
+Kết nối 251:
+Node 129 - Node 130: (40, 30) -> (45, 33)
+Khoảng cách: 5.83
+
+Kết nối 252:
+Node 130 - Node 131: (45, 33) -> (50, 30)
+Khoảng cách: 5.83
+
+Kết nối 253:
+Node 130 - Node 169: (45, 33) -> (40, 40)
+Khoảng cách: 8.60
+
+Kết nối 254:
+Node 130 - Node 171: (45, 33) -> (50, 40)
+Khoảng cách: 8.60
+
+Kết nối 255:
+Node 131 - Node 132: (50, 30) -> (55, 33)
+Khoảng cách: 5.83
+
+Kết nối 256:
+Node 132 - Node 133: (55, 33) -> (60, 30)
+Khoảng cách: 5.83
+
+Kết nối 257:
+Node 132 - Node 171: (55, 33) -> (50, 40)
+Khoảng cách: 8.60
+
+Kết nối 258:
+Node 132 - Node 173: (55, 33) -> (60, 40)
+Khoảng cách: 8.60
+
+Kết nối 259:
+Node 133 - Node 134: (60, 30) -> (65, 33)
+Khoảng cách: 5.83
+
+Kết nối 260:
+Node 134 - Node 135: (65, 33) -> (70, 30)
+Khoảng cách: 5.83
+
+Kết nối 261:
+Node 134 - Node 173: (65, 33) -> (60, 40)
+Khoảng cách: 8.60
+
+Kết nối 262:
+Node 134 - Node 175: (65, 33) -> (70, 40)
+Khoảng cách: 8.60
+
+Kết nối 263:
+Node 135 - Node 136: (70, 30) -> (75, 33)
+Khoảng cách: 5.83
+
+Kết nối 264:
+Node 136 - Node 137: (75, 33) -> (80, 30)
+Khoảng cách: 5.83
+
+Kết nối 265:
+Node 136 - Node 175: (75, 33) -> (70, 40)
+Khoảng cách: 8.60
+
+Kết nối 266:
+Node 136 - Node 177: (75, 33) -> (80, 40)
+Khoảng cách: 8.60
+
+Kết nối 267:
+Node 137 - Node 138: (80, 30) -> (85, 33)
+Khoảng cách: 5.83
+
+Kết nối 268:
+Node 138 - Node 139: (85, 33) -> (90, 30)
+Khoảng cách: 5.83
+
+Kết nối 269:
+Node 138 - Node 177: (85, 33) -> (80, 40)
+Khoảng cách: 8.60
+
+Kết nối 270:
+Node 138 - Node 179: (85, 33) -> (90, 40)
+Khoảng cách: 8.60
+
+Kết nối 271:
+Node 139 - Node 140: (90, 30) -> (95, 33)
+Khoảng cách: 5.83
+
+Kết nối 272:
+Node 140 - Node 141: (95, 33) -> (100, 30)
+Khoảng cách: 5.83
+
+Kết nối 273:
+Node 140 - Node 179: (95, 33) -> (90, 40)
+Khoảng cách: 8.60
+
+Kết nối 274:
+Node 140 - Node 181: (95, 33) -> (100, 40)
+Khoảng cách: 8.60
+
+Kết nối 275:
+Node 141 - Node 142: (100, 30) -> (105, 33)
+Khoảng cách: 5.83
+
+Kết nối 276:
+Node 142 - Node 143: (105, 33) -> (110, 30)
+Khoảng cách: 5.83
+
+Kết nối 277:
+Node 142 - Node 181: (105, 33) -> (100, 40)
+Khoảng cách: 8.60
+
+Kết nối 278:
+Node 142 - Node 183: (105, 33) -> (110, 40)
+Khoảng cách: 8.60
+
+Kết nối 279:
+Node 143 - Node 144: (110, 30) -> (115, 33)
+Khoảng cách: 5.83
+
+Kết nối 280:
+Node 144 - Node 145: (115, 33) -> (120, 30)
+Khoảng cách: 5.83
+
+Kết nối 281:
+Node 144 - Node 183: (115, 33) -> (110, 40)
+Khoảng cách: 8.60
+
+Kết nối 282:
+Node 144 - Node 185: (115, 33) -> (120, 40)
+Khoảng cách: 8.60
+
+Kết nối 283:
+Node 145 - Node 146: (120, 30) -> (125, 33)
+Khoảng cách: 5.83
+
+Kết nối 284:
+Node 146 - Node 147: (125, 33) -> (130, 30)
+Khoảng cách: 5.83
+
+Kết nối 285:
+Node 146 - Node 185: (125, 33) -> (120, 40)
+Khoảng cách: 8.60
+
+Kết nối 286:
+Node 146 - Node 187: (125, 33) -> (130, 40)
+Khoảng cách: 8.60
+
+Kết nối 287:
+Node 147 - Node 148: (130, 30) -> (135, 33)
+Khoảng cách: 5.83
+
+Kết nối 288:
+Node 148 - Node 149: (135, 33) -> (140, 30)
+Khoảng cách: 5.83
+
+Kết nối 289:
+Node 148 - Node 187: (135, 33) -> (130, 40)
+Khoảng cách: 8.60
+
+Kết nối 290:
+Node 148 - Node 189: (135, 33) -> (140, 40)
+Khoảng cách: 8.60
+
+Kết nối 291:
+Node 149 - Node 150: (140, 30) -> (145, 33)
+Khoảng cách: 5.83
+
+Kết nối 292:
+Node 150 - Node 151: (145, 33) -> (150, 30)
+Khoảng cách: 5.83
+
+Kết nối 293:
+Node 150 - Node 189: (145, 33) -> (140, 40)
+Khoảng cách: 8.60
+
+Kết nối 294:
+Node 150 - Node 191: (145, 33) -> (150, 40)
+Khoảng cách: 8.60
+
+Kết nối 295:
+Node 151 - Node 152: (150, 30) -> (155, 33)
+Khoảng cách: 5.83
+
+Kết nối 296:
+Node 152 - Node 153: (155, 33) -> (160, 30)
+Khoảng cách: 5.83
+
+Kết nối 297:
+Node 152 - Node 191: (155, 33) -> (150, 40)
+Khoảng cách: 8.60
+
+Kết nối 298:
+Node 152 - Node 193: (155, 33) -> (160, 40)
+Khoảng cách: 8.60
+
+Kết nối 299:
+Node 153 - Node 154: (160, 30) -> (165, 33)
+Khoảng cách: 5.83
+
+Kết nối 300:
+Node 154 - Node 155: (165, 33) -> (170, 30)
+Khoảng cách: 5.83
+
+Kết nối 301:
+Node 154 - Node 193: (165, 33) -> (160, 40)
+Khoảng cách: 8.60
+
+Kết nối 302:
+Node 154 - Node 195: (165, 33) -> (170, 40)
+Khoảng cách: 8.60
+
+Kết nối 303:
+Node 155 - Node 156: (170, 30) -> (175, 33)
+Khoảng cách: 5.83
+
+Kết nối 304:
+Node 156 - Node 157: (175, 33) -> (180, 30)
+Khoảng cách: 5.83
+
+Kết nối 305:
+Node 156 - Node 195: (175, 33) -> (170, 40)
+Khoảng cách: 8.60
+
+Kết nối 306:
+Node 156 - Node 197: (175, 33) -> (180, 40)
+Khoảng cách: 8.60
+
+Kết nối 307:
+Node 157 - Node 158: (180, 30) -> (185, 33)
+Khoảng cách: 5.83
+
+Kết nối 308:
+Node 158 - Node 159: (185, 33) -> (190, 30)
+Khoảng cách: 5.83
+
+Kết nối 309:
+Node 158 - Node 197: (185, 33) -> (180, 40)
+Khoảng cách: 8.60
+
+Kết nối 310:
+Node 158 - Node 199: (185, 33) -> (190, 40)
+Khoảng cách: 8.60
+
+Kết nối 311:
+Node 159 - Node 160: (190, 30) -> (195, 33)
+Khoảng cách: 5.83
+
+Kết nối 312:
+Node 160 - Node 199: (195, 33) -> (190, 40)
+Khoảng cách: 8.60
+
+Kết nối 313:
+Node 161 - Node 162: (0, 40) -> (5, 43)
+Khoảng cách: 5.83
+
+Kết nối 314:
+Node 162 - Node 163: (5, 43) -> (10, 40)
+Khoảng cách: 5.83
+
+Kết nối 315:
+Node 162 - Node 201: (5, 43) -> (0, 50)
+Khoảng cách: 8.60
+
+Kết nối 316:
+Node 162 - Node 203: (5, 43) -> (10, 50)
+Khoảng cách: 8.60
+
+Kết nối 317:
+Node 163 - Node 164: (10, 40) -> (15, 43)
+Khoảng cách: 5.83
+
+Kết nối 318:
+Node 164 - Node 165: (15, 43) -> (20, 40)
+Khoảng cách: 5.83
+
+Kết nối 319:
+Node 164 - Node 203: (15, 43) -> (10, 50)
+Khoảng cách: 8.60
+
+Kết nối 320:
+Node 164 - Node 205: (15, 43) -> (20, 50)
+Khoảng cách: 8.60
+
+Kết nối 321:
+Node 165 - Node 166: (20, 40) -> (25, 43)
+Khoảng cách: 5.83
+
+Kết nối 322:
+Node 166 - Node 167: (25, 43) -> (30, 40)
+Khoảng cách: 5.83
+
+Kết nối 323:
+Node 166 - Node 205: (25, 43) -> (20, 50)
+Khoảng cách: 8.60
+
+Kết nối 324:
+Node 166 - Node 207: (25, 43) -> (30, 50)
+Khoảng cách: 8.60
+
+Kết nối 325:
+Node 167 - Node 168: (30, 40) -> (35, 43)
+Khoảng cách: 5.83
+
+Kết nối 326:
+Node 168 - Node 169: (35, 43) -> (40, 40)
+Khoảng cách: 5.83
+
+Kết nối 327:
+Node 168 - Node 207: (35, 43) -> (30, 50)
+Khoảng cách: 8.60
+
+Kết nối 328:
+Node 168 - Node 209: (35, 43) -> (40, 50)
+Khoảng cách: 8.60
+
+Kết nối 329:
+Node 169 - Node 170: (40, 40) -> (45, 43)
+Khoảng cách: 5.83
+
+Kết nối 330:
+Node 170 - Node 171: (45, 43) -> (50, 40)
+Khoảng cách: 5.83
+
+Kết nối 331:
+Node 170 - Node 209: (45, 43) -> (40, 50)
+Khoảng cách: 8.60
+
+Kết nối 332:
+Node 170 - Node 211: (45, 43) -> (50, 50)
+Khoảng cách: 8.60
+
+Kết nối 333:
+Node 171 - Node 172: (50, 40) -> (55, 43)
+Khoảng cách: 5.83
+
+Kết nối 334:
+Node 172 - Node 173: (55, 43) -> (60, 40)
+Khoảng cách: 5.83
+
+Kết nối 335:
+Node 172 - Node 211: (55, 43) -> (50, 50)
+Khoảng cách: 8.60
+
+Kết nối 336:
+Node 172 - Node 213: (55, 43) -> (60, 50)
+Khoảng cách: 8.60
+
+Kết nối 337:
+Node 173 - Node 174: (60, 40) -> (65, 43)
+Khoảng cách: 5.83
+
+Kết nối 338:
+Node 174 - Node 175: (65, 43) -> (70, 40)
+Khoảng cách: 5.83
+
+Kết nối 339:
+Node 174 - Node 213: (65, 43) -> (60, 50)
+Khoảng cách: 8.60
+
+Kết nối 340:
+Node 174 - Node 215: (65, 43) -> (70, 50)
+Khoảng cách: 8.60
+
+Kết nối 341:
+Node 175 - Node 176: (70, 40) -> (75, 43)
+Khoảng cách: 5.83
+
+Kết nối 342:
+Node 176 - Node 177: (75, 43) -> (80, 40)
+Khoảng cách: 5.83
+
+Kết nối 343:
+Node 176 - Node 215: (75, 43) -> (70, 50)
+Khoảng cách: 8.60
+
+Kết nối 344:
+Node 176 - Node 217: (75, 43) -> (80, 50)
+Khoảng cách: 8.60
+
+Kết nối 345:
+Node 177 - Node 178: (80, 40) -> (85, 43)
+Khoảng cách: 5.83
+
+Kết nối 346:
+Node 178 - Node 179: (85, 43) -> (90, 40)
+Khoảng cách: 5.83
+
+Kết nối 347:
+Node 178 - Node 217: (85, 43) -> (80, 50)
+Khoảng cách: 8.60
+
+Kết nối 348:
+Node 178 - Node 219: (85, 43) -> (90, 50)
+Khoảng cách: 8.60
+
+Kết nối 349:
+Node 179 - Node 180: (90, 40) -> (95, 43)
+Khoảng cách: 5.83
+
+Kết nối 350:
+Node 180 - Node 181: (95, 43) -> (100, 40)
+Khoảng cách: 5.83
+
+Kết nối 351:
+Node 180 - Node 219: (95, 43) -> (90, 50)
+Khoảng cách: 8.60
+
+Kết nối 352:
+Node 180 - Node 221: (95, 43) -> (100, 50)
+Khoảng cách: 8.60
+
+Kết nối 353:
+Node 181 - Node 182: (100, 40) -> (105, 43)
+Khoảng cách: 5.83
+
+Kết nối 354:
+Node 182 - Node 183: (105, 43) -> (110, 40)
+Khoảng cách: 5.83
+
+Kết nối 355:
+Node 182 - Node 221: (105, 43) -> (100, 50)
+Khoảng cách: 8.60
+
+Kết nối 356:
+Node 182 - Node 223: (105, 43) -> (110, 50)
+Khoảng cách: 8.60
+
+Kết nối 357:
+Node 183 - Node 184: (110, 40) -> (115, 43)
+Khoảng cách: 5.83
+
+Kết nối 358:
+Node 184 - Node 185: (115, 43) -> (120, 40)
+Khoảng cách: 5.83
+
+Kết nối 359:
+Node 184 - Node 223: (115, 43) -> (110, 50)
+Khoảng cách: 8.60
+
+Kết nối 360:
+Node 184 - Node 225: (115, 43) -> (120, 50)
+Khoảng cách: 8.60
+
+Kết nối 361:
+Node 185 - Node 186: (120, 40) -> (125, 43)
+Khoảng cách: 5.83
+
+Kết nối 362:
+Node 186 - Node 187: (125, 43) -> (130, 40)
+Khoảng cách: 5.83
+
+Kết nối 363:
+Node 186 - Node 225: (125, 43) -> (120, 50)
+Khoảng cách: 8.60
+
+Kết nối 364:
+Node 186 - Node 227: (125, 43) -> (130, 50)
+Khoảng cách: 8.60
+
+Kết nối 365:
+Node 187 - Node 188: (130, 40) -> (135, 43)
+Khoảng cách: 5.83
+
+Kết nối 366:
+Node 188 - Node 189: (135, 43) -> (140, 40)
+Khoảng cách: 5.83
+
+Kết nối 367:
+Node 188 - Node 227: (135, 43) -> (130, 50)
+Khoảng cách: 8.60
+
+Kết nối 368:
+Node 188 - Node 229: (135, 43) -> (140, 50)
+Khoảng cách: 8.60
+
+Kết nối 369:
+Node 189 - Node 190: (140, 40) -> (145, 43)
+Khoảng cách: 5.83
+
+Kết nối 370:
+Node 190 - Node 191: (145, 43) -> (150, 40)
+Khoảng cách: 5.83
+
+Kết nối 371:
+Node 190 - Node 229: (145, 43) -> (140, 50)
+Khoảng cách: 8.60
+
+Kết nối 372:
+Node 190 - Node 231: (145, 43) -> (150, 50)
+Khoảng cách: 8.60
+
+Kết nối 373:
+Node 191 - Node 192: (150, 40) -> (155, 43)
+Khoảng cách: 5.83
+
+Kết nối 374:
+Node 192 - Node 193: (155, 43) -> (160, 40)
+Khoảng cách: 5.83
+
+Kết nối 375:
+Node 192 - Node 231: (155, 43) -> (150, 50)
+Khoảng cách: 8.60
+
+Kết nối 376:
+Node 192 - Node 233: (155, 43) -> (160, 50)
+Khoảng cách: 8.60
+
+Kết nối 377:
+Node 193 - Node 194: (160, 40) -> (165, 43)
+Khoảng cách: 5.83
+
+Kết nối 378:
+Node 194 - Node 195: (165, 43) -> (170, 40)
+Khoảng cách: 5.83
+
+Kết nối 379:
+Node 194 - Node 233: (165, 43) -> (160, 50)
+Khoảng cách: 8.60
+
+Kết nối 380:
+Node 194 - Node 235: (165, 43) -> (170, 50)
+Khoảng cách: 8.60
+
+Kết nối 381:
+Node 195 - Node 196: (170, 40) -> (175, 43)
+Khoảng cách: 5.83
+
+Kết nối 382:
+Node 196 - Node 197: (175, 43) -> (180, 40)
+Khoảng cách: 5.83
+
+Kết nối 383:
+Node 196 - Node 235: (175, 43) -> (170, 50)
+Khoảng cách: 8.60
+
+Kết nối 384:
+Node 196 - Node 237: (175, 43) -> (180, 50)
+Khoảng cách: 8.60
+
+Kết nối 385:
+Node 197 - Node 198: (180, 40) -> (185, 43)
+Khoảng cách: 5.83
+
+Kết nối 386:
+Node 198 - Node 199: (185, 43) -> (190, 40)
+Khoảng cách: 5.83
+
+Kết nối 387:
+Node 198 - Node 237: (185, 43) -> (180, 50)
+Khoảng cách: 8.60
+
+Kết nối 388:
+Node 198 - Node 239: (185, 43) -> (190, 50)
+Khoảng cách: 8.60
+
+Kết nối 389:
+Node 199 - Node 200: (190, 40) -> (195, 43)
+Khoảng cách: 5.83
+
+Kết nối 390:
+Node 200 - Node 239: (195, 43) -> (190, 50)
+Khoảng cách: 8.60
+
+Kết nối 391:
+Node 201 - Node 202: (0, 50) -> (5, 53)
+Khoảng cách: 5.83
+
+Kết nối 392:
+Node 202 - Node 203: (5, 53) -> (10, 50)
+Khoảng cách: 5.83
+
+Kết nối 393:
+Node 202 - Node 241: (5, 53) -> (0, 60)
+Khoảng cách: 8.60
+
+Kết nối 394:
+Node 202 - Node 243: (5, 53) -> (10, 60)
+Khoảng cách: 8.60
+
+Kết nối 395:
+Node 203 - Node 204: (10, 50) -> (15, 53)
+Khoảng cách: 5.83
+
+Kết nối 396:
+Node 204 - Node 205: (15, 53) -> (20, 50)
+Khoảng cách: 5.83
+
+Kết nối 397:
+Node 204 - Node 243: (15, 53) -> (10, 60)
+Khoảng cách: 8.60
+
+Kết nối 398:
+Node 204 - Node 245: (15, 53) -> (20, 60)
+Khoảng cách: 8.60
+
+Kết nối 399:
+Node 205 - Node 206: (20, 50) -> (25, 53)
+Khoảng cách: 5.83
+
+Kết nối 400:
+Node 206 - Node 207: (25, 53) -> (30, 50)
+Khoảng cách: 5.83
+
+Kết nối 401:
+Node 206 - Node 245: (25, 53) -> (20, 60)
+Khoảng cách: 8.60
+
+Kết nối 402:
+Node 206 - Node 247: (25, 53) -> (30, 60)
+Khoảng cách: 8.60
+
+Kết nối 403:
+Node 207 - Node 208: (30, 50) -> (35, 53)
+Khoảng cách: 5.83
+
+Kết nối 404:
+Node 208 - Node 209: (35, 53) -> (40, 50)
+Khoảng cách: 5.83
+
+Kết nối 405:
+Node 208 - Node 247: (35, 53) -> (30, 60)
+Khoảng cách: 8.60
+
+Kết nối 406:
+Node 208 - Node 249: (35, 53) -> (40, 60)
+Khoảng cách: 8.60
+
+Kết nối 407:
+Node 209 - Node 210: (40, 50) -> (45, 53)
+Khoảng cách: 5.83
+
+Kết nối 408:
+Node 210 - Node 211: (45, 53) -> (50, 50)
+Khoảng cách: 5.83
+
+Kết nối 409:
+Node 210 - Node 249: (45, 53) -> (40, 60)
+Khoảng cách: 8.60
+
+Kết nối 410:
+Node 210 - Node 251: (45, 53) -> (50, 60)
+Khoảng cách: 8.60
+
+Kết nối 411:
+Node 211 - Node 212: (50, 50) -> (55, 53)
+Khoảng cách: 5.83
+
+Kết nối 412:
+Node 212 - Node 213: (55, 53) -> (60, 50)
+Khoảng cách: 5.83
+
+Kết nối 413:
+Node 212 - Node 251: (55, 53) -> (50, 60)
+Khoảng cách: 8.60
+
+Kết nối 414:
+Node 212 - Node 253: (55, 53) -> (60, 60)
+Khoảng cách: 8.60
+
+Kết nối 415:
+Node 213 - Node 214: (60, 50) -> (65, 53)
+Khoảng cách: 5.83
+
+Kết nối 416:
+Node 214 - Node 215: (65, 53) -> (70, 50)
+Khoảng cách: 5.83
+
+Kết nối 417:
+Node 214 - Node 253: (65, 53) -> (60, 60)
+Khoảng cách: 8.60
+
+Kết nối 418:
+Node 214 - Node 255: (65, 53) -> (70, 60)
+Khoảng cách: 8.60
+
+Kết nối 419:
+Node 215 - Node 216: (70, 50) -> (75, 53)
+Khoảng cách: 5.83
+
+Kết nối 420:
+Node 216 - Node 217: (75, 53) -> (80, 50)
+Khoảng cách: 5.83
+
+Kết nối 421:
+Node 216 - Node 255: (75, 53) -> (70, 60)
+Khoảng cách: 8.60
+
+Kết nối 422:
+Node 216 - Node 257: (75, 53) -> (80, 60)
+Khoảng cách: 8.60
+
+Kết nối 423:
+Node 217 - Node 218: (80, 50) -> (85, 53)
+Khoảng cách: 5.83
+
+Kết nối 424:
+Node 218 - Node 219: (85, 53) -> (90, 50)
+Khoảng cách: 5.83
+
+Kết nối 425:
+Node 218 - Node 257: (85, 53) -> (80, 60)
+Khoảng cách: 8.60
+
+Kết nối 426:
+Node 218 - Node 259: (85, 53) -> (90, 60)
+Khoảng cách: 8.60
+
+Kết nối 427:
+Node 219 - Node 220: (90, 50) -> (95, 53)
+Khoảng cách: 5.83
+
+Kết nối 428:
+Node 220 - Node 221: (95, 53) -> (100, 50)
+Khoảng cách: 5.83
+
+Kết nối 429:
+Node 220 - Node 259: (95, 53) -> (90, 60)
+Khoảng cách: 8.60
+
+Kết nối 430:
+Node 220 - Node 261: (95, 53) -> (100, 60)
+Khoảng cách: 8.60
+
+Kết nối 431:
+Node 221 - Node 222: (100, 50) -> (105, 53)
+Khoảng cách: 5.83
+
+Kết nối 432:
+Node 222 - Node 223: (105, 53) -> (110, 50)
+Khoảng cách: 5.83
+
+Kết nối 433:
+Node 222 - Node 261: (105, 53) -> (100, 60)
+Khoảng cách: 8.60
+
+Kết nối 434:
+Node 222 - Node 263: (105, 53) -> (110, 60)
+Khoảng cách: 8.60
+
+Kết nối 435:
+Node 223 - Node 224: (110, 50) -> (115, 53)
+Khoảng cách: 5.83
+
+Kết nối 436:
+Node 224 - Node 225: (115, 53) -> (120, 50)
+Khoảng cách: 5.83
+
+Kết nối 437:
+Node 224 - Node 263: (115, 53) -> (110, 60)
+Khoảng cách: 8.60
+
+Kết nối 438:
+Node 224 - Node 265: (115, 53) -> (120, 60)
+Khoảng cách: 8.60
+
+Kết nối 439:
+Node 225 - Node 226: (120, 50) -> (125, 53)
+Khoảng cách: 5.83
+
+Kết nối 440:
+Node 226 - Node 227: (125, 53) -> (130, 50)
+Khoảng cách: 5.83
+
+Kết nối 441:
+Node 226 - Node 265: (125, 53) -> (120, 60)
+Khoảng cách: 8.60
+
+Kết nối 442:
+Node 226 - Node 267: (125, 53) -> (130, 60)
+Khoảng cách: 8.60
+
+Kết nối 443:
+Node 227 - Node 228: (130, 50) -> (135, 53)
+Khoảng cách: 5.83
+
+Kết nối 444:
+Node 228 - Node 229: (135, 53) -> (140, 50)
+Khoảng cách: 5.83
+
+Kết nối 445:
+Node 228 - Node 267: (135, 53) -> (130, 60)
+Khoảng cách: 8.60
+
+Kết nối 446:
+Node 228 - Node 269: (135, 53) -> (140, 60)
+Khoảng cách: 8.60
+
+Kết nối 447:
+Node 229 - Node 230: (140, 50) -> (145, 53)
+Khoảng cách: 5.83
+
+Kết nối 448:
+Node 230 - Node 231: (145, 53) -> (150, 50)
+Khoảng cách: 5.83
+
+Kết nối 449:
+Node 230 - Node 269: (145, 53) -> (140, 60)
+Khoảng cách: 8.60
+
+Kết nối 450:
+Node 230 - Node 271: (145, 53) -> (150, 60)
+Khoảng cách: 8.60
+
+Kết nối 451:
+Node 231 - Node 232: (150, 50) -> (155, 53)
+Khoảng cách: 5.83
+
+Kết nối 452:
+Node 232 - Node 233: (155, 53) -> (160, 50)
+Khoảng cách: 5.83
+
+Kết nối 453:
+Node 232 - Node 271: (155, 53) -> (150, 60)
+Khoảng cách: 8.60
+
+Kết nối 454:
+Node 232 - Node 273: (155, 53) -> (160, 60)
+Khoảng cách: 8.60
+
+Kết nối 455:
+Node 233 - Node 234: (160, 50) -> (165, 53)
+Khoảng cách: 5.83
+
+Kết nối 456:
+Node 234 - Node 235: (165, 53) -> (170, 50)
+Khoảng cách: 5.83
+
+Kết nối 457:
+Node 234 - Node 273: (165, 53) -> (160, 60)
+Khoảng cách: 8.60
+
+Kết nối 458:
+Node 234 - Node 275: (165, 53) -> (170, 60)
+Khoảng cách: 8.60
+
+Kết nối 459:
+Node 235 - Node 236: (170, 50) -> (175, 53)
+Khoảng cách: 5.83
+
+Kết nối 460:
+Node 236 - Node 237: (175, 53) -> (180, 50)
+Khoảng cách: 5.83
+
+Kết nối 461:
+Node 236 - Node 275: (175, 53) -> (170, 60)
+Khoảng cách: 8.60
+
+Kết nối 462:
+Node 236 - Node 277: (175, 53) -> (180, 60)
+Khoảng cách: 8.60
+
+Kết nối 463:
+Node 237 - Node 238: (180, 50) -> (185, 53)
+Khoảng cách: 5.83
+
+Kết nối 464:
+Node 238 - Node 239: (185, 53) -> (190, 50)
+Khoảng cách: 5.83
+
+Kết nối 465:
+Node 238 - Node 277: (185, 53) -> (180, 60)
+Khoảng cách: 8.60
+
+Kết nối 466:
+Node 238 - Node 279: (185, 53) -> (190, 60)
+Khoảng cách: 8.60
+
+Kết nối 467:
+Node 239 - Node 240: (190, 50) -> (195, 53)
+Khoảng cách: 5.83
+
+Kết nối 468:
+Node 240 - Node 279: (195, 53) -> (190, 60)
+Khoảng cách: 8.60
+
+Kết nối 469:
+Node 241 - Node 242: (0, 60) -> (5, 63)
+Khoảng cách: 5.83
+
+Kết nối 470:
+Node 242 - Node 243: (5, 63) -> (10, 60)
+Khoảng cách: 5.83
+
+Kết nối 471:
+Node 242 - Node 281: (5, 63) -> (0, 70)
+Khoảng cách: 8.60
+
+Kết nối 472:
+Node 242 - Node 283: (5, 63) -> (10, 70)
+Khoảng cách: 8.60
+
+Kết nối 473:
+Node 243 - Node 244: (10, 60) -> (15, 63)
+Khoảng cách: 5.83
+
+Kết nối 474:
+Node 244 - Node 245: (15, 63) -> (20, 60)
+Khoảng cách: 5.83
+
+Kết nối 475:
+Node 244 - Node 283: (15, 63) -> (10, 70)
+Khoảng cách: 8.60
+
+Kết nối 476:
+Node 244 - Node 285: (15, 63) -> (20, 70)
+Khoảng cách: 8.60
+
+Kết nối 477:
+Node 245 - Node 246: (20, 60) -> (25, 63)
+Khoảng cách: 5.83
+
+Kết nối 478:
+Node 246 - Node 247: (25, 63) -> (30, 60)
+Khoảng cách: 5.83
+
+Kết nối 479:
+Node 246 - Node 285: (25, 63) -> (20, 70)
+Khoảng cách: 8.60
+
+Kết nối 480:
+Node 246 - Node 287: (25, 63) -> (30, 70)
+Khoảng cách: 8.60
+
+Kết nối 481:
+Node 247 - Node 248: (30, 60) -> (35, 63)
+Khoảng cách: 5.83
+
+Kết nối 482:
+Node 248 - Node 249: (35, 63) -> (40, 60)
+Khoảng cách: 5.83
+
+Kết nối 483:
+Node 248 - Node 287: (35, 63) -> (30, 70)
+Khoảng cách: 8.60
+
+Kết nối 484:
+Node 248 - Node 289: (35, 63) -> (40, 70)
+Khoảng cách: 8.60
+
+Kết nối 485:
+Node 249 - Node 250: (40, 60) -> (45, 63)
+Khoảng cách: 5.83
+
+Kết nối 486:
+Node 250 - Node 251: (45, 63) -> (50, 60)
+Khoảng cách: 5.83
+
+Kết nối 487:
+Node 250 - Node 289: (45, 63) -> (40, 70)
+Khoảng cách: 8.60
+
+Kết nối 488:
+Node 250 - Node 291: (45, 63) -> (50, 70)
+Khoảng cách: 8.60
+
+Kết nối 489:
+Node 251 - Node 252: (50, 60) -> (55, 63)
+Khoảng cách: 5.83
+
+Kết nối 490:
+Node 252 - Node 253: (55, 63) -> (60, 60)
+Khoảng cách: 5.83
+
+Kết nối 491:
+Node 252 - Node 291: (55, 63) -> (50, 70)
+Khoảng cách: 8.60
+
+Kết nối 492:
+Node 252 - Node 293: (55, 63) -> (60, 70)
+Khoảng cách: 8.60
+
+Kết nối 493:
+Node 253 - Node 254: (60, 60) -> (65, 63)
+Khoảng cách: 5.83
+
+Kết nối 494:
+Node 254 - Node 255: (65, 63) -> (70, 60)
+Khoảng cách: 5.83
+
+Kết nối 495:
+Node 254 - Node 293: (65, 63) -> (60, 70)
+Khoảng cách: 8.60
+
+Kết nối 496:
+Node 254 - Node 295: (65, 63) -> (70, 70)
+Khoảng cách: 8.60
+
+Kết nối 497:
+Node 255 - Node 256: (70, 60) -> (75, 63)
+Khoảng cách: 5.83
+
+Kết nối 498:
+Node 256 - Node 257: (75, 63) -> (80, 60)
+Khoảng cách: 5.83
+
+Kết nối 499:
+Node 256 - Node 295: (75, 63) -> (70, 70)
+Khoảng cách: 8.60
+
+Kết nối 500:
+Node 256 - Node 297: (75, 63) -> (80, 70)
+Khoảng cách: 8.60
+
+Kết nối 501:
+Node 257 - Node 258: (80, 60) -> (85, 63)
+Khoảng cách: 5.83
+
+Kết nối 502:
+Node 258 - Node 259: (85, 63) -> (90, 60)
+Khoảng cách: 5.83
+
+Kết nối 503:
+Node 258 - Node 297: (85, 63) -> (80, 70)
+Khoảng cách: 8.60
+
+Kết nối 504:
+Node 258 - Node 299: (85, 63) -> (90, 70)
+Khoảng cách: 8.60
+
+Kết nối 505:
+Node 259 - Node 260: (90, 60) -> (95, 63)
+Khoảng cách: 5.83
+
+Kết nối 506:
+Node 260 - Node 261: (95, 63) -> (100, 60)
+Khoảng cách: 5.83
+
+Kết nối 507:
+Node 260 - Node 299: (95, 63) -> (90, 70)
+Khoảng cách: 8.60
+
+Kết nối 508:
+Node 260 - Node 301: (95, 63) -> (100, 70)
+Khoảng cách: 8.60
+
+Kết nối 509:
+Node 261 - Node 262: (100, 60) -> (105, 63)
+Khoảng cách: 5.83
+
+Kết nối 510:
+Node 262 - Node 263: (105, 63) -> (110, 60)
+Khoảng cách: 5.83
+
+Kết nối 511:
+Node 262 - Node 301: (105, 63) -> (100, 70)
+Khoảng cách: 8.60
+
+Kết nối 512:
+Node 262 - Node 303: (105, 63) -> (110, 70)
+Khoảng cách: 8.60
+
+Kết nối 513:
+Node 263 - Node 264: (110, 60) -> (115, 63)
+Khoảng cách: 5.83
+
+Kết nối 514:
+Node 264 - Node 265: (115, 63) -> (120, 60)
+Khoảng cách: 5.83
+
+Kết nối 515:
+Node 264 - Node 303: (115, 63) -> (110, 70)
+Khoảng cách: 8.60
+
+Kết nối 516:
+Node 264 - Node 305: (115, 63) -> (120, 70)
+Khoảng cách: 8.60
+
+Kết nối 517:
+Node 265 - Node 266: (120, 60) -> (125, 63)
+Khoảng cách: 5.83
+
+Kết nối 518:
+Node 266 - Node 267: (125, 63) -> (130, 60)
+Khoảng cách: 5.83
+
+Kết nối 519:
+Node 266 - Node 305: (125, 63) -> (120, 70)
+Khoảng cách: 8.60
+
+Kết nối 520:
+Node 266 - Node 307: (125, 63) -> (130, 70)
+Khoảng cách: 8.60
+
+Kết nối 521:
+Node 267 - Node 268: (130, 60) -> (135, 63)
+Khoảng cách: 5.83
+
+Kết nối 522:
+Node 268 - Node 269: (135, 63) -> (140, 60)
+Khoảng cách: 5.83
+
+Kết nối 523:
+Node 268 - Node 307: (135, 63) -> (130, 70)
+Khoảng cách: 8.60
+
+Kết nối 524:
+Node 268 - Node 309: (135, 63) -> (140, 70)
+Khoảng cách: 8.60
+
+Kết nối 525:
+Node 269 - Node 270: (140, 60) -> (145, 63)
+Khoảng cách: 5.83
+
+Kết nối 526:
+Node 270 - Node 271: (145, 63) -> (150, 60)
+Khoảng cách: 5.83
+
+Kết nối 527:
+Node 270 - Node 309: (145, 63) -> (140, 70)
+Khoảng cách: 8.60
+
+Kết nối 528:
+Node 270 - Node 311: (145, 63) -> (150, 70)
+Khoảng cách: 8.60
+
+Kết nối 529:
+Node 271 - Node 272: (150, 60) -> (155, 63)
+Khoảng cách: 5.83
+
+Kết nối 530:
+Node 272 - Node 273: (155, 63) -> (160, 60)
+Khoảng cách: 5.83
+
+Kết nối 531:
+Node 272 - Node 311: (155, 63) -> (150, 70)
+Khoảng cách: 8.60
+
+Kết nối 532:
+Node 272 - Node 313: (155, 63) -> (160, 70)
+Khoảng cách: 8.60
+
+Kết nối 533:
+Node 273 - Node 274: (160, 60) -> (165, 63)
+Khoảng cách: 5.83
+
+Kết nối 534:
+Node 274 - Node 275: (165, 63) -> (170, 60)
+Khoảng cách: 5.83
+
+Kết nối 535:
+Node 274 - Node 313: (165, 63) -> (160, 70)
+Khoảng cách: 8.60
+
+Kết nối 536:
+Node 274 - Node 315: (165, 63) -> (170, 70)
+Khoảng cách: 8.60
+
+Kết nối 537:
+Node 275 - Node 276: (170, 60) -> (175, 63)
+Khoảng cách: 5.83
+
+Kết nối 538:
+Node 276 - Node 277: (175, 63) -> (180, 60)
+Khoảng cách: 5.83
+
+Kết nối 539:
+Node 276 - Node 315: (175, 63) -> (170, 70)
+Khoảng cách: 8.60
+
+Kết nối 540:
+Node 276 - Node 317: (175, 63) -> (180, 70)
+Khoảng cách: 8.60
+
+Kết nối 541:
+Node 277 - Node 278: (180, 60) -> (185, 63)
+Khoảng cách: 5.83
+
+Kết nối 542:
+Node 278 - Node 279: (185, 63) -> (190, 60)
+Khoảng cách: 5.83
+
+Kết nối 543:
+Node 278 - Node 317: (185, 63) -> (180, 70)
+Khoảng cách: 8.60
+
+Kết nối 544:
+Node 278 - Node 319: (185, 63) -> (190, 70)
+Khoảng cách: 8.60
+
+Kết nối 545:
+Node 279 - Node 280: (190, 60) -> (195, 63)
+Khoảng cách: 5.83
+
+Kết nối 546:
+Node 280 - Node 319: (195, 63) -> (190, 70)
+Khoảng cách: 8.60
+
+Kết nối 547:
+Node 281 - Node 282: (0, 70) -> (5, 73)
+Khoảng cách: 5.83
+
+Kết nối 548:
+Node 282 - Node 283: (5, 73) -> (10, 70)
+Khoảng cách: 5.83
+
+Kết nối 549:
+Node 282 - Node 321: (5, 73) -> (0, 80)
+Khoảng cách: 8.60
+
+Kết nối 550:
+Node 282 - Node 323: (5, 73) -> (10, 80)
+Khoảng cách: 8.60
+
+Kết nối 551:
+Node 283 - Node 284: (10, 70) -> (15, 73)
+Khoảng cách: 5.83
+
+Kết nối 552:
+Node 284 - Node 285: (15, 73) -> (20, 70)
+Khoảng cách: 5.83
+
+Kết nối 553:
+Node 284 - Node 323: (15, 73) -> (10, 80)
+Khoảng cách: 8.60
+
+Kết nối 554:
+Node 284 - Node 325: (15, 73) -> (20, 80)
+Khoảng cách: 8.60
+
+Kết nối 555:
+Node 285 - Node 286: (20, 70) -> (25, 73)
+Khoảng cách: 5.83
+
+Kết nối 556:
+Node 286 - Node 287: (25, 73) -> (30, 70)
+Khoảng cách: 5.83
+
+Kết nối 557:
+Node 286 - Node 325: (25, 73) -> (20, 80)
+Khoảng cách: 8.60
+
+Kết nối 558:
+Node 286 - Node 327: (25, 73) -> (30, 80)
+Khoảng cách: 8.60
+
+Kết nối 559:
+Node 287 - Node 288: (30, 70) -> (35, 73)
+Khoảng cách: 5.83
+
+Kết nối 560:
+Node 288 - Node 289: (35, 73) -> (40, 70)
+Khoảng cách: 5.83
+
+Kết nối 561:
+Node 288 - Node 327: (35, 73) -> (30, 80)
+Khoảng cách: 8.60
+
+Kết nối 562:
+Node 288 - Node 329: (35, 73) -> (40, 80)
+Khoảng cách: 8.60
+
+Kết nối 563:
+Node 289 - Node 290: (40, 70) -> (45, 73)
+Khoảng cách: 5.83
+
+Kết nối 564:
+Node 290 - Node 291: (45, 73) -> (50, 70)
+Khoảng cách: 5.83
+
+Kết nối 565:
+Node 290 - Node 329: (45, 73) -> (40, 80)
+Khoảng cách: 8.60
+
+Kết nối 566:
+Node 290 - Node 331: (45, 73) -> (50, 80)
+Khoảng cách: 8.60
+
+Kết nối 567:
+Node 291 - Node 292: (50, 70) -> (55, 73)
+Khoảng cách: 5.83
+
+Kết nối 568:
+Node 292 - Node 293: (55, 73) -> (60, 70)
+Khoảng cách: 5.83
+
+Kết nối 569:
+Node 292 - Node 331: (55, 73) -> (50, 80)
+Khoảng cách: 8.60
+
+Kết nối 570:
+Node 292 - Node 333: (55, 73) -> (60, 80)
+Khoảng cách: 8.60
+
+Kết nối 571:
+Node 293 - Node 294: (60, 70) -> (65, 73)
+Khoảng cách: 5.83
+
+Kết nối 572:
+Node 294 - Node 295: (65, 73) -> (70, 70)
+Khoảng cách: 5.83
+
+Kết nối 573:
+Node 294 - Node 333: (65, 73) -> (60, 80)
+Khoảng cách: 8.60
+
+Kết nối 574:
+Node 294 - Node 335: (65, 73) -> (70, 80)
+Khoảng cách: 8.60
+
+Kết nối 575:
+Node 295 - Node 296: (70, 70) -> (75, 73)
+Khoảng cách: 5.83
+
+Kết nối 576:
+Node 296 - Node 297: (75, 73) -> (80, 70)
+Khoảng cách: 5.83
+
+Kết nối 577:
+Node 296 - Node 335: (75, 73) -> (70, 80)
+Khoảng cách: 8.60
+
+Kết nối 578:
+Node 296 - Node 337: (75, 73) -> (80, 80)
+Khoảng cách: 8.60
+
+Kết nối 579:
+Node 297 - Node 298: (80, 70) -> (85, 73)
+Khoảng cách: 5.83
+
+Kết nối 580:
+Node 298 - Node 299: (85, 73) -> (90, 70)
+Khoảng cách: 5.83
+
+Kết nối 581:
+Node 298 - Node 337: (85, 73) -> (80, 80)
+Khoảng cách: 8.60
+
+Kết nối 582:
+Node 298 - Node 339: (85, 73) -> (90, 80)
+Khoảng cách: 8.60
+
+Kết nối 583:
+Node 299 - Node 300: (90, 70) -> (95, 73)
+Khoảng cách: 5.83
+
+Kết nối 584:
+Node 300 - Node 301: (95, 73) -> (100, 70)
+Khoảng cách: 5.83
+
+Kết nối 585:
+Node 300 - Node 339: (95, 73) -> (90, 80)
+Khoảng cách: 8.60
+
+Kết nối 586:
+Node 300 - Node 341: (95, 73) -> (100, 80)
+Khoảng cách: 8.60
+
+Kết nối 587:
+Node 301 - Node 302: (100, 70) -> (105, 73)
+Khoảng cách: 5.83
+
+Kết nối 588:
+Node 302 - Node 303: (105, 73) -> (110, 70)
+Khoảng cách: 5.83
+
+Kết nối 589:
+Node 302 - Node 341: (105, 73) -> (100, 80)
+Khoảng cách: 8.60
+
+Kết nối 590:
+Node 302 - Node 343: (105, 73) -> (110, 80)
+Khoảng cách: 8.60
+
+Kết nối 591:
+Node 303 - Node 304: (110, 70) -> (115, 73)
+Khoảng cách: 5.83
+
+Kết nối 592:
+Node 304 - Node 305: (115, 73) -> (120, 70)
+Khoảng cách: 5.83
+
+Kết nối 593:
+Node 304 - Node 343: (115, 73) -> (110, 80)
+Khoảng cách: 8.60
+
+Kết nối 594:
+Node 304 - Node 345: (115, 73) -> (120, 80)
+Khoảng cách: 8.60
+
+Kết nối 595:
+Node 305 - Node 306: (120, 70) -> (125, 73)
+Khoảng cách: 5.83
+
+Kết nối 596:
+Node 306 - Node 307: (125, 73) -> (130, 70)
+Khoảng cách: 5.83
+
+Kết nối 597:
+Node 306 - Node 345: (125, 73) -> (120, 80)
+Khoảng cách: 8.60
+
+Kết nối 598:
+Node 306 - Node 347: (125, 73) -> (130, 80)
+Khoảng cách: 8.60
+
+Kết nối 599:
+Node 307 - Node 308: (130, 70) -> (135, 73)
+Khoảng cách: 5.83
+
+Kết nối 600:
+Node 308 - Node 309: (135, 73) -> (140, 70)
+Khoảng cách: 5.83
+
+Kết nối 601:
+Node 308 - Node 347: (135, 73) -> (130, 80)
+Khoảng cách: 8.60
+
+Kết nối 602:
+Node 308 - Node 349: (135, 73) -> (140, 80)
+Khoảng cách: 8.60
+
+Kết nối 603:
+Node 309 - Node 310: (140, 70) -> (145, 73)
+Khoảng cách: 5.83
+
+Kết nối 604:
+Node 310 - Node 311: (145, 73) -> (150, 70)
+Khoảng cách: 5.83
+
+Kết nối 605:
+Node 310 - Node 349: (145, 73) -> (140, 80)
+Khoảng cách: 8.60
+
+Kết nối 606:
+Node 310 - Node 351: (145, 73) -> (150, 80)
+Khoảng cách: 8.60
+
+Kết nối 607:
+Node 311 - Node 312: (150, 70) -> (155, 73)
+Khoảng cách: 5.83
+
+Kết nối 608:
+Node 312 - Node 313: (155, 73) -> (160, 70)
+Khoảng cách: 5.83
+
+Kết nối 609:
+Node 312 - Node 351: (155, 73) -> (150, 80)
+Khoảng cách: 8.60
+
+Kết nối 610:
+Node 312 - Node 353: (155, 73) -> (160, 80)
+Khoảng cách: 8.60
+
+Kết nối 611:
+Node 313 - Node 314: (160, 70) -> (165, 73)
+Khoảng cách: 5.83
+
+Kết nối 612:
+Node 314 - Node 315: (165, 73) -> (170, 70)
+Khoảng cách: 5.83
+
+Kết nối 613:
+Node 314 - Node 353: (165, 73) -> (160, 80)
+Khoảng cách: 8.60
+
+Kết nối 614:
+Node 314 - Node 355: (165, 73) -> (170, 80)
+Khoảng cách: 8.60
+
+Kết nối 615:
+Node 315 - Node 316: (170, 70) -> (175, 73)
+Khoảng cách: 5.83
+
+Kết nối 616:
+Node 316 - Node 317: (175, 73) -> (180, 70)
+Khoảng cách: 5.83
+
+Kết nối 617:
+Node 316 - Node 355: (175, 73) -> (170, 80)
+Khoảng cách: 8.60
+
+Kết nối 618:
+Node 316 - Node 357: (175, 73) -> (180, 80)
+Khoảng cách: 8.60
+
+Kết nối 619:
+Node 317 - Node 318: (180, 70) -> (185, 73)
+Khoảng cách: 5.83
+
+Kết nối 620:
+Node 318 - Node 319: (185, 73) -> (190, 70)
+Khoảng cách: 5.83
+
+Kết nối 621:
+Node 318 - Node 357: (185, 73) -> (180, 80)
+Khoảng cách: 8.60
+
+Kết nối 622:
+Node 318 - Node 359: (185, 73) -> (190, 80)
+Khoảng cách: 8.60
+
+Kết nối 623:
+Node 319 - Node 320: (190, 70) -> (195, 73)
+Khoảng cách: 5.83
+
+Kết nối 624:
+Node 320 - Node 359: (195, 73) -> (190, 80)
+Khoảng cách: 8.60
+
+Kết nối 625:
+Node 321 - Node 322: (0, 80) -> (5, 83)
+Khoảng cách: 5.83
+
+Kết nối 626:
+Node 322 - Node 323: (5, 83) -> (10, 80)
+Khoảng cách: 5.83
+
+Kết nối 627:
+Node 322 - Node 361: (5, 83) -> (0, 90)
+Khoảng cách: 8.60
+
+Kết nối 628:
+Node 322 - Node 363: (5, 83) -> (10, 90)
+Khoảng cách: 8.60
+
+Kết nối 629:
+Node 323 - Node 324: (10, 80) -> (15, 83)
+Khoảng cách: 5.83
+
+Kết nối 630:
+Node 324 - Node 325: (15, 83) -> (20, 80)
+Khoảng cách: 5.83
+
+Kết nối 631:
+Node 324 - Node 363: (15, 83) -> (10, 90)
+Khoảng cách: 8.60
+
+Kết nối 632:
+Node 324 - Node 365: (15, 83) -> (20, 90)
+Khoảng cách: 8.60
+
+Kết nối 633:
+Node 325 - Node 326: (20, 80) -> (25, 83)
+Khoảng cách: 5.83
+
+Kết nối 634:
+Node 326 - Node 327: (25, 83) -> (30, 80)
+Khoảng cách: 5.83
+
+Kết nối 635:
+Node 326 - Node 365: (25, 83) -> (20, 90)
+Khoảng cách: 8.60
+
+Kết nối 636:
+Node 326 - Node 367: (25, 83) -> (30, 90)
+Khoảng cách: 8.60
+
+Kết nối 637:
+Node 327 - Node 328: (30, 80) -> (35, 83)
+Khoảng cách: 5.83
+
+Kết nối 638:
+Node 328 - Node 329: (35, 83) -> (40, 80)
+Khoảng cách: 5.83
+
+Kết nối 639:
+Node 328 - Node 367: (35, 83) -> (30, 90)
+Khoảng cách: 8.60
+
+Kết nối 640:
+Node 328 - Node 369: (35, 83) -> (40, 90)
+Khoảng cách: 8.60
+
+Kết nối 641:
+Node 329 - Node 330: (40, 80) -> (45, 83)
+Khoảng cách: 5.83
+
+Kết nối 642:
+Node 330 - Node 331: (45, 83) -> (50, 80)
+Khoảng cách: 5.83
+
+Kết nối 643:
+Node 330 - Node 369: (45, 83) -> (40, 90)
+Khoảng cách: 8.60
+
+Kết nối 644:
+Node 330 - Node 371: (45, 83) -> (50, 90)
+Khoảng cách: 8.60
+
+Kết nối 645:
+Node 331 - Node 332: (50, 80) -> (55, 83)
+Khoảng cách: 5.83
+
+Kết nối 646:
+Node 332 - Node 333: (55, 83) -> (60, 80)
+Khoảng cách: 5.83
+
+Kết nối 647:
+Node 332 - Node 371: (55, 83) -> (50, 90)
+Khoảng cách: 8.60
+
+Kết nối 648:
+Node 332 - Node 373: (55, 83) -> (60, 90)
+Khoảng cách: 8.60
+
+Kết nối 649:
+Node 333 - Node 334: (60, 80) -> (65, 83)
+Khoảng cách: 5.83
+
+Kết nối 650:
+Node 334 - Node 335: (65, 83) -> (70, 80)
+Khoảng cách: 5.83
+
+Kết nối 651:
+Node 334 - Node 373: (65, 83) -> (60, 90)
+Khoảng cách: 8.60
+
+Kết nối 652:
+Node 334 - Node 375: (65, 83) -> (70, 90)
+Khoảng cách: 8.60
+
+Kết nối 653:
+Node 335 - Node 336: (70, 80) -> (75, 83)
+Khoảng cách: 5.83
+
+Kết nối 654:
+Node 336 - Node 337: (75, 83) -> (80, 80)
+Khoảng cách: 5.83
+
+Kết nối 655:
+Node 336 - Node 375: (75, 83) -> (70, 90)
+Khoảng cách: 8.60
+
+Kết nối 656:
+Node 336 - Node 377: (75, 83) -> (80, 90)
+Khoảng cách: 8.60
+
+Kết nối 657:
+Node 337 - Node 338: (80, 80) -> (85, 83)
+Khoảng cách: 5.83
+
+Kết nối 658:
+Node 338 - Node 339: (85, 83) -> (90, 80)
+Khoảng cách: 5.83
+
+Kết nối 659:
+Node 338 - Node 377: (85, 83) -> (80, 90)
+Khoảng cách: 8.60
+
+Kết nối 660:
+Node 338 - Node 379: (85, 83) -> (90, 90)
+Khoảng cách: 8.60
+
+Kết nối 661:
+Node 339 - Node 340: (90, 80) -> (95, 83)
+Khoảng cách: 5.83
+
+Kết nối 662:
+Node 340 - Node 341: (95, 83) -> (100, 80)
+Khoảng cách: 5.83
+
+Kết nối 663:
+Node 340 - Node 379: (95, 83) -> (90, 90)
+Khoảng cách: 8.60
+
+Kết nối 664:
+Node 340 - Node 381: (95, 83) -> (100, 90)
+Khoảng cách: 8.60
+
+Kết nối 665:
+Node 341 - Node 342: (100, 80) -> (105, 83)
+Khoảng cách: 5.83
+
+Kết nối 666:
+Node 342 - Node 343: (105, 83) -> (110, 80)
+Khoảng cách: 5.83
+
+Kết nối 667:
+Node 342 - Node 381: (105, 83) -> (100, 90)
+Khoảng cách: 8.60
+
+Kết nối 668:
+Node 342 - Node 383: (105, 83) -> (110, 90)
+Khoảng cách: 8.60
+
+Kết nối 669:
+Node 343 - Node 344: (110, 80) -> (115, 83)
+Khoảng cách: 5.83
+
+Kết nối 670:
+Node 344 - Node 345: (115, 83) -> (120, 80)
+Khoảng cách: 5.83
+
+Kết nối 671:
+Node 344 - Node 383: (115, 83) -> (110, 90)
+Khoảng cách: 8.60
+
+Kết nối 672:
+Node 344 - Node 385: (115, 83) -> (120, 90)
+Khoảng cách: 8.60
+
+Kết nối 673:
+Node 345 - Node 346: (120, 80) -> (125, 83)
+Khoảng cách: 5.83
+
+Kết nối 674:
+Node 346 - Node 347: (125, 83) -> (130, 80)
+Khoảng cách: 5.83
+
+Kết nối 675:
+Node 346 - Node 385: (125, 83) -> (120, 90)
+Khoảng cách: 8.60
+
+Kết nối 676:
+Node 346 - Node 387: (125, 83) -> (130, 90)
+Khoảng cách: 8.60
+
+Kết nối 677:
+Node 347 - Node 348: (130, 80) -> (135, 83)
+Khoảng cách: 5.83
+
+Kết nối 678:
+Node 348 - Node 349: (135, 83) -> (140, 80)
+Khoảng cách: 5.83
+
+Kết nối 679:
+Node 348 - Node 387: (135, 83) -> (130, 90)
+Khoảng cách: 8.60
+
+Kết nối 680:
+Node 348 - Node 389: (135, 83) -> (140, 90)
+Khoảng cách: 8.60
+
+Kết nối 681:
+Node 349 - Node 350: (140, 80) -> (145, 83)
+Khoảng cách: 5.83
+
+Kết nối 682:
+Node 350 - Node 351: (145, 83) -> (150, 80)
+Khoảng cách: 5.83
+
+Kết nối 683:
+Node 350 - Node 389: (145, 83) -> (140, 90)
+Khoảng cách: 8.60
+
+Kết nối 684:
+Node 350 - Node 391: (145, 83) -> (150, 90)
+Khoảng cách: 8.60
+
+Kết nối 685:
+Node 351 - Node 352: (150, 80) -> (155, 83)
+Khoảng cách: 5.83
+
+Kết nối 686:
+Node 352 - Node 353: (155, 83) -> (160, 80)
+Khoảng cách: 5.83
+
+Kết nối 687:
+Node 352 - Node 391: (155, 83) -> (150, 90)
+Khoảng cách: 8.60
+
+Kết nối 688:
+Node 352 - Node 393: (155, 83) -> (160, 90)
+Khoảng cách: 8.60
+
+Kết nối 689:
+Node 353 - Node 354: (160, 80) -> (165, 83)
+Khoảng cách: 5.83
+
+Kết nối 690:
+Node 354 - Node 355: (165, 83) -> (170, 80)
+Khoảng cách: 5.83
+
+Kết nối 691:
+Node 354 - Node 393: (165, 83) -> (160, 90)
+Khoảng cách: 8.60
+
+Kết nối 692:
+Node 354 - Node 395: (165, 83) -> (170, 90)
+Khoảng cách: 8.60
+
+Kết nối 693:
+Node 355 - Node 356: (170, 80) -> (175, 83)
+Khoảng cách: 5.83
+
+Kết nối 694:
+Node 356 - Node 357: (175, 83) -> (180, 80)
+Khoảng cách: 5.83
+
+Kết nối 695:
+Node 356 - Node 395: (175, 83) -> (170, 90)
+Khoảng cách: 8.60
+
+Kết nối 696:
+Node 356 - Node 397: (175, 83) -> (180, 90)
+Khoảng cách: 8.60
+
+Kết nối 697:
+Node 357 - Node 358: (180, 80) -> (185, 83)
+Khoảng cách: 5.83
+
+Kết nối 698:
+Node 358 - Node 359: (185, 83) -> (190, 80)
+Khoảng cách: 5.83
+
+Kết nối 699:
+Node 358 - Node 397: (185, 83) -> (180, 90)
+Khoảng cách: 8.60
+
+Kết nối 700:
+Node 358 - Node 399: (185, 83) -> (190, 90)
+Khoảng cách: 8.60
+
+Kết nối 701:
+Node 359 - Node 360: (190, 80) -> (195, 83)
+Khoảng cách: 5.83
+
+Kết nối 702:
+Node 360 - Node 399: (195, 83) -> (190, 90)
+Khoảng cách: 8.60
+
+Kết nối 703:
+Node 361 - Node 362: (0, 90) -> (5, 93)
+Khoảng cách: 5.83
+
+Kết nối 704:
+Node 362 - Node 363: (5, 93) -> (10, 90)
+Khoảng cách: 5.83
+
+Kết nối 705:
+Node 362 - Node 401: (5, 93) -> (0, 100)
+Khoảng cách: 8.60
+
+Kết nối 706:
+Node 362 - Node 403: (5, 93) -> (10, 100)
+Khoảng cách: 8.60
+
+Kết nối 707:
+Node 363 - Node 364: (10, 90) -> (15, 93)
+Khoảng cách: 5.83
+
+Kết nối 708:
+Node 364 - Node 365: (15, 93) -> (20, 90)
+Khoảng cách: 5.83
+
+Kết nối 709:
+Node 364 - Node 403: (15, 93) -> (10, 100)
+Khoảng cách: 8.60
+
+Kết nối 710:
+Node 364 - Node 405: (15, 93) -> (20, 100)
+Khoảng cách: 8.60
+
+Kết nối 711:
+Node 365 - Node 366: (20, 90) -> (25, 93)
+Khoảng cách: 5.83
+
+Kết nối 712:
+Node 366 - Node 367: (25, 93) -> (30, 90)
+Khoảng cách: 5.83
+
+Kết nối 713:
+Node 366 - Node 405: (25, 93) -> (20, 100)
+Khoảng cách: 8.60
+
+Kết nối 714:
+Node 366 - Node 407: (25, 93) -> (30, 100)
+Khoảng cách: 8.60
+
+Kết nối 715:
+Node 367 - Node 368: (30, 90) -> (35, 93)
+Khoảng cách: 5.83
+
+Kết nối 716:
+Node 368 - Node 369: (35, 93) -> (40, 90)
+Khoảng cách: 5.83
+
+Kết nối 717:
+Node 368 - Node 407: (35, 93) -> (30, 100)
+Khoảng cách: 8.60
+
+Kết nối 718:
+Node 368 - Node 409: (35, 93) -> (40, 100)
+Khoảng cách: 8.60
+
+Kết nối 719:
+Node 369 - Node 370: (40, 90) -> (45, 93)
+Khoảng cách: 5.83
+
+Kết nối 720:
+Node 370 - Node 371: (45, 93) -> (50, 90)
+Khoảng cách: 5.83
+
+Kết nối 721:
+Node 370 - Node 409: (45, 93) -> (40, 100)
+Khoảng cách: 8.60
+
+Kết nối 722:
+Node 370 - Node 411: (45, 93) -> (50, 100)
+Khoảng cách: 8.60
+
+Kết nối 723:
+Node 371 - Node 372: (50, 90) -> (55, 93)
+Khoảng cách: 5.83
+
+Kết nối 724:
+Node 372 - Node 373: (55, 93) -> (60, 90)
+Khoảng cách: 5.83
+
+Kết nối 725:
+Node 372 - Node 411: (55, 93) -> (50, 100)
+Khoảng cách: 8.60
+
+Kết nối 726:
+Node 372 - Node 413: (55, 93) -> (60, 100)
+Khoảng cách: 8.60
+
+Kết nối 727:
+Node 373 - Node 374: (60, 90) -> (65, 93)
+Khoảng cách: 5.83
+
+Kết nối 728:
+Node 374 - Node 375: (65, 93) -> (70, 90)
+Khoảng cách: 5.83
+
+Kết nối 729:
+Node 374 - Node 413: (65, 93) -> (60, 100)
+Khoảng cách: 8.60
+
+Kết nối 730:
+Node 374 - Node 415: (65, 93) -> (70, 100)
+Khoảng cách: 8.60
+
+Kết nối 731:
+Node 375 - Node 376: (70, 90) -> (75, 93)
+Khoảng cách: 5.83
+
+Kết nối 732:
+Node 376 - Node 377: (75, 93) -> (80, 90)
+Khoảng cách: 5.83
+
+Kết nối 733:
+Node 376 - Node 415: (75, 93) -> (70, 100)
+Khoảng cách: 8.60
+
+Kết nối 734:
+Node 376 - Node 417: (75, 93) -> (80, 100)
+Khoảng cách: 8.60
+
+Kết nối 735:
+Node 377 - Node 378: (80, 90) -> (85, 93)
+Khoảng cách: 5.83
+
+Kết nối 736:
+Node 378 - Node 379: (85, 93) -> (90, 90)
+Khoảng cách: 5.83
+
+Kết nối 737:
+Node 378 - Node 417: (85, 93) -> (80, 100)
+Khoảng cách: 8.60
+
+Kết nối 738:
+Node 378 - Node 419: (85, 93) -> (90, 100)
+Khoảng cách: 8.60
+
+Kết nối 739:
+Node 379 - Node 380: (90, 90) -> (95, 93)
+Khoảng cách: 5.83
+
+Kết nối 740:
+Node 380 - Node 381: (95, 93) -> (100, 90)
+Khoảng cách: 5.83
+
+Kết nối 741:
+Node 380 - Node 419: (95, 93) -> (90, 100)
+Khoảng cách: 8.60
+
+Kết nối 742:
+Node 380 - Node 421: (95, 93) -> (100, 100)
+Khoảng cách: 8.60
+
+Kết nối 743:
+Node 381 - Node 382: (100, 90) -> (105, 93)
+Khoảng cách: 5.83
+
+Kết nối 744:
+Node 382 - Node 383: (105, 93) -> (110, 90)
+Khoảng cách: 5.83
+
+Kết nối 745:
+Node 382 - Node 421: (105, 93) -> (100, 100)
+Khoảng cách: 8.60
+
+Kết nối 746:
+Node 382 - Node 423: (105, 93) -> (110, 100)
+Khoảng cách: 8.60
+
+Kết nối 747:
+Node 383 - Node 384: (110, 90) -> (115, 93)
+Khoảng cách: 5.83
+
+Kết nối 748:
+Node 384 - Node 385: (115, 93) -> (120, 90)
+Khoảng cách: 5.83
+
+Kết nối 749:
+Node 384 - Node 423: (115, 93) -> (110, 100)
+Khoảng cách: 8.60
+
+Kết nối 750:
+Node 384 - Node 425: (115, 93) -> (120, 100)
+Khoảng cách: 8.60
+
+Kết nối 751:
+Node 385 - Node 386: (120, 90) -> (125, 93)
+Khoảng cách: 5.83
+
+Kết nối 752:
+Node 386 - Node 387: (125, 93) -> (130, 90)
+Khoảng cách: 5.83
+
+Kết nối 753:
+Node 386 - Node 425: (125, 93) -> (120, 100)
+Khoảng cách: 8.60
+
+Kết nối 754:
+Node 386 - Node 427: (125, 93) -> (130, 100)
+Khoảng cách: 8.60
+
+Kết nối 755:
+Node 387 - Node 388: (130, 90) -> (135, 93)
+Khoảng cách: 5.83
+
+Kết nối 756:
+Node 388 - Node 389: (135, 93) -> (140, 90)
+Khoảng cách: 5.83
+
+Kết nối 757:
+Node 388 - Node 427: (135, 93) -> (130, 100)
+Khoảng cách: 8.60
+
+Kết nối 758:
+Node 388 - Node 429: (135, 93) -> (140, 100)
+Khoảng cách: 8.60
+
+Kết nối 759:
+Node 389 - Node 390: (140, 90) -> (145, 93)
+Khoảng cách: 5.83
+
+Kết nối 760:
+Node 390 - Node 391: (145, 93) -> (150, 90)
+Khoảng cách: 5.83
+
+Kết nối 761:
+Node 390 - Node 429: (145, 93) -> (140, 100)
+Khoảng cách: 8.60
+
+Kết nối 762:
+Node 390 - Node 431: (145, 93) -> (150, 100)
+Khoảng cách: 8.60
+
+Kết nối 763:
+Node 391 - Node 392: (150, 90) -> (155, 93)
+Khoảng cách: 5.83
+
+Kết nối 764:
+Node 392 - Node 393: (155, 93) -> (160, 90)
+Khoảng cách: 5.83
+
+Kết nối 765:
+Node 392 - Node 431: (155, 93) -> (150, 100)
+Khoảng cách: 8.60
+
+Kết nối 766:
+Node 392 - Node 433: (155, 93) -> (160, 100)
+Khoảng cách: 8.60
+
+Kết nối 767:
+Node 393 - Node 394: (160, 90) -> (165, 93)
+Khoảng cách: 5.83
+
+Kết nối 768:
+Node 394 - Node 395: (165, 93) -> (170, 90)
+Khoảng cách: 5.83
+
+Kết nối 769:
+Node 394 - Node 433: (165, 93) -> (160, 100)
+Khoảng cách: 8.60
+
+Kết nối 770:
+Node 394 - Node 435: (165, 93) -> (170, 100)
+Khoảng cách: 8.60
+
+Kết nối 771:
+Node 395 - Node 396: (170, 90) -> (175, 93)
+Khoảng cách: 5.83
+
+Kết nối 772:
+Node 396 - Node 397: (175, 93) -> (180, 90)
+Khoảng cách: 5.83
+
+Kết nối 773:
+Node 396 - Node 435: (175, 93) -> (170, 100)
+Khoảng cách: 8.60
+
+Kết nối 774:
+Node 396 - Node 437: (175, 93) -> (180, 100)
+Khoảng cách: 8.60
+
+Kết nối 775:
+Node 397 - Node 398: (180, 90) -> (185, 93)
+Khoảng cách: 5.83
+
+Kết nối 776:
+Node 398 - Node 399: (185, 93) -> (190, 90)
+Khoảng cách: 5.83
+
+Kết nối 777:
+Node 398 - Node 437: (185, 93) -> (180, 100)
+Khoảng cách: 8.60
+
+Kết nối 778:
+Node 398 - Node 439: (185, 93) -> (190, 100)
+Khoảng cách: 8.60
+
+Kết nối 779:
+Node 399 - Node 400: (190, 90) -> (195, 93)
+Khoảng cách: 5.83
+
+Kết nối 780:
+Node 400 - Node 439: (195, 93) -> (190, 100)
+Khoảng cách: 8.60
+
+Kết nối 781:
+Node 401 - Node 402: (0, 100) -> (5, 103)
+Khoảng cách: 5.83
+
+Kết nối 782:
+Node 402 - Node 403: (5, 103) -> (10, 100)
+Khoảng cách: 5.83
+
+Kết nối 783:
+Node 402 - Node 441: (5, 103) -> (0, 110)
+Khoảng cách: 8.60
+
+Kết nối 784:
+Node 402 - Node 443: (5, 103) -> (10, 110)
+Khoảng cách: 8.60
+
+Kết nối 785:
+Node 403 - Node 404: (10, 100) -> (15, 103)
+Khoảng cách: 5.83
+
+Kết nối 786:
+Node 404 - Node 405: (15, 103) -> (20, 100)
+Khoảng cách: 5.83
+
+Kết nối 787:
+Node 404 - Node 443: (15, 103) -> (10, 110)
+Khoảng cách: 8.60
+
+Kết nối 788:
+Node 404 - Node 445: (15, 103) -> (20, 110)
+Khoảng cách: 8.60
+
+Kết nối 789:
+Node 405 - Node 406: (20, 100) -> (25, 103)
+Khoảng cách: 5.83
+
+Kết nối 790:
+Node 406 - Node 407: (25, 103) -> (30, 100)
+Khoảng cách: 5.83
+
+Kết nối 791:
+Node 406 - Node 445: (25, 103) -> (20, 110)
+Khoảng cách: 8.60
+
+Kết nối 792:
+Node 406 - Node 447: (25, 103) -> (30, 110)
+Khoảng cách: 8.60
+
+Kết nối 793:
+Node 407 - Node 408: (30, 100) -> (35, 103)
+Khoảng cách: 5.83
+
+Kết nối 794:
+Node 408 - Node 409: (35, 103) -> (40, 100)
+Khoảng cách: 5.83
+
+Kết nối 795:
+Node 408 - Node 447: (35, 103) -> (30, 110)
+Khoảng cách: 8.60
+
+Kết nối 796:
+Node 408 - Node 449: (35, 103) -> (40, 110)
+Khoảng cách: 8.60
+
+Kết nối 797:
+Node 409 - Node 410: (40, 100) -> (45, 103)
+Khoảng cách: 5.83
+
+Kết nối 798:
+Node 410 - Node 411: (45, 103) -> (50, 100)
+Khoảng cách: 5.83
+
+Kết nối 799:
+Node 410 - Node 449: (45, 103) -> (40, 110)
+Khoảng cách: 8.60
+
+Kết nối 800:
+Node 410 - Node 451: (45, 103) -> (50, 110)
+Khoảng cách: 8.60
+
+Kết nối 801:
+Node 411 - Node 412: (50, 100) -> (55, 103)
+Khoảng cách: 5.83
+
+Kết nối 802:
+Node 412 - Node 413: (55, 103) -> (60, 100)
+Khoảng cách: 5.83
+
+Kết nối 803:
+Node 412 - Node 451: (55, 103) -> (50, 110)
+Khoảng cách: 8.60
+
+Kết nối 804:
+Node 412 - Node 453: (55, 103) -> (60, 110)
+Khoảng cách: 8.60
+
+Kết nối 805:
+Node 413 - Node 414: (60, 100) -> (65, 103)
+Khoảng cách: 5.83
+
+Kết nối 806:
+Node 414 - Node 415: (65, 103) -> (70, 100)
+Khoảng cách: 5.83
+
+Kết nối 807:
+Node 414 - Node 453: (65, 103) -> (60, 110)
+Khoảng cách: 8.60
+
+Kết nối 808:
+Node 414 - Node 455: (65, 103) -> (70, 110)
+Khoảng cách: 8.60
+
+Kết nối 809:
+Node 415 - Node 416: (70, 100) -> (75, 103)
+Khoảng cách: 5.83
+
+Kết nối 810:
+Node 416 - Node 417: (75, 103) -> (80, 100)
+Khoảng cách: 5.83
+
+Kết nối 811:
+Node 416 - Node 455: (75, 103) -> (70, 110)
+Khoảng cách: 8.60
+
+Kết nối 812:
+Node 416 - Node 457: (75, 103) -> (80, 110)
+Khoảng cách: 8.60
+
+Kết nối 813:
+Node 417 - Node 418: (80, 100) -> (85, 103)
+Khoảng cách: 5.83
+
+Kết nối 814:
+Node 418 - Node 419: (85, 103) -> (90, 100)
+Khoảng cách: 5.83
+
+Kết nối 815:
+Node 418 - Node 457: (85, 103) -> (80, 110)
+Khoảng cách: 8.60
+
+Kết nối 816:
+Node 418 - Node 459: (85, 103) -> (90, 110)
+Khoảng cách: 8.60
+
+Kết nối 817:
+Node 419 - Node 420: (90, 100) -> (95, 103)
+Khoảng cách: 5.83
+
+Kết nối 818:
+Node 420 - Node 421: (95, 103) -> (100, 100)
+Khoảng cách: 5.83
+
+Kết nối 819:
+Node 420 - Node 459: (95, 103) -> (90, 110)
+Khoảng cách: 8.60
+
+Kết nối 820:
+Node 420 - Node 461: (95, 103) -> (100, 110)
+Khoảng cách: 8.60
+
+Kết nối 821:
+Node 421 - Node 422: (100, 100) -> (105, 103)
+Khoảng cách: 5.83
+
+Kết nối 822:
+Node 422 - Node 423: (105, 103) -> (110, 100)
+Khoảng cách: 5.83
+
+Kết nối 823:
+Node 422 - Node 461: (105, 103) -> (100, 110)
+Khoảng cách: 8.60
+
+Kết nối 824:
+Node 422 - Node 463: (105, 103) -> (110, 110)
+Khoảng cách: 8.60
+
+Kết nối 825:
+Node 423 - Node 424: (110, 100) -> (115, 103)
+Khoảng cách: 5.83
+
+Kết nối 826:
+Node 424 - Node 425: (115, 103) -> (120, 100)
+Khoảng cách: 5.83
+
+Kết nối 827:
+Node 424 - Node 463: (115, 103) -> (110, 110)
+Khoảng cách: 8.60
+
+Kết nối 828:
+Node 424 - Node 465: (115, 103) -> (120, 110)
+Khoảng cách: 8.60
+
+Kết nối 829:
+Node 425 - Node 426: (120, 100) -> (125, 103)
+Khoảng cách: 5.83
+
+Kết nối 830:
+Node 426 - Node 427: (125, 103) -> (130, 100)
+Khoảng cách: 5.83
+
+Kết nối 831:
+Node 426 - Node 465: (125, 103) -> (120, 110)
+Khoảng cách: 8.60
+
+Kết nối 832:
+Node 426 - Node 467: (125, 103) -> (130, 110)
+Khoảng cách: 8.60
+
+Kết nối 833:
+Node 427 - Node 428: (130, 100) -> (135, 103)
+Khoảng cách: 5.83
+
+Kết nối 834:
+Node 428 - Node 429: (135, 103) -> (140, 100)
+Khoảng cách: 5.83
+
+Kết nối 835:
+Node 428 - Node 467: (135, 103) -> (130, 110)
+Khoảng cách: 8.60
+
+Kết nối 836:
+Node 428 - Node 469: (135, 103) -> (140, 110)
+Khoảng cách: 8.60
+
+Kết nối 837:
+Node 429 - Node 430: (140, 100) -> (145, 103)
+Khoảng cách: 5.83
+
+Kết nối 838:
+Node 430 - Node 431: (145, 103) -> (150, 100)
+Khoảng cách: 5.83
+
+Kết nối 839:
+Node 430 - Node 469: (145, 103) -> (140, 110)
+Khoảng cách: 8.60
+
+Kết nối 840:
+Node 430 - Node 471: (145, 103) -> (150, 110)
+Khoảng cách: 8.60
+
+Kết nối 841:
+Node 431 - Node 432: (150, 100) -> (155, 103)
+Khoảng cách: 5.83
+
+Kết nối 842:
+Node 432 - Node 433: (155, 103) -> (160, 100)
+Khoảng cách: 5.83
+
+Kết nối 843:
+Node 432 - Node 471: (155, 103) -> (150, 110)
+Khoảng cách: 8.60
+
+Kết nối 844:
+Node 432 - Node 473: (155, 103) -> (160, 110)
+Khoảng cách: 8.60
+
+Kết nối 845:
+Node 433 - Node 434: (160, 100) -> (165, 103)
+Khoảng cách: 5.83
+
+Kết nối 846:
+Node 434 - Node 435: (165, 103) -> (170, 100)
+Khoảng cách: 5.83
+
+Kết nối 847:
+Node 434 - Node 473: (165, 103) -> (160, 110)
+Khoảng cách: 8.60
+
+Kết nối 848:
+Node 434 - Node 475: (165, 103) -> (170, 110)
+Khoảng cách: 8.60
+
+Kết nối 849:
+Node 435 - Node 436: (170, 100) -> (175, 103)
+Khoảng cách: 5.83
+
+Kết nối 850:
+Node 436 - Node 437: (175, 103) -> (180, 100)
+Khoảng cách: 5.83
+
+Kết nối 851:
+Node 436 - Node 475: (175, 103) -> (170, 110)
+Khoảng cách: 8.60
+
+Kết nối 852:
+Node 436 - Node 477: (175, 103) -> (180, 110)
+Khoảng cách: 8.60
+
+Kết nối 853:
+Node 437 - Node 438: (180, 100) -> (185, 103)
+Khoảng cách: 5.83
+
+Kết nối 854:
+Node 438 - Node 439: (185, 103) -> (190, 100)
+Khoảng cách: 5.83
+
+Kết nối 855:
+Node 438 - Node 477: (185, 103) -> (180, 110)
+Khoảng cách: 8.60
+
+Kết nối 856:
+Node 438 - Node 479: (185, 103) -> (190, 110)
+Khoảng cách: 8.60
+
+Kết nối 857:
+Node 439 - Node 440: (190, 100) -> (195, 103)
+Khoảng cách: 5.83
+
+Kết nối 858:
+Node 440 - Node 479: (195, 103) -> (190, 110)
+Khoảng cách: 8.60
+
+Kết nối 859:
+Node 441 - Node 442: (0, 110) -> (5, 113)
+Khoảng cách: 5.83
+
+Kết nối 860:
+Node 442 - Node 443: (5, 113) -> (10, 110)
+Khoảng cách: 5.83
+
+Kết nối 861:
+Node 442 - Node 481: (5, 113) -> (0, 120)
+Khoảng cách: 8.60
+
+Kết nối 862:
+Node 442 - Node 483: (5, 113) -> (10, 120)
+Khoảng cách: 8.60
+
+Kết nối 863:
+Node 443 - Node 444: (10, 110) -> (15, 113)
+Khoảng cách: 5.83
+
+Kết nối 864:
+Node 444 - Node 445: (15, 113) -> (20, 110)
+Khoảng cách: 5.83
+
+Kết nối 865:
+Node 444 - Node 483: (15, 113) -> (10, 120)
+Khoảng cách: 8.60
+
+Kết nối 866:
+Node 444 - Node 485: (15, 113) -> (20, 120)
+Khoảng cách: 8.60
+
+Kết nối 867:
+Node 445 - Node 446: (20, 110) -> (25, 113)
+Khoảng cách: 5.83
+
+Kết nối 868:
+Node 446 - Node 447: (25, 113) -> (30, 110)
+Khoảng cách: 5.83
+
+Kết nối 869:
+Node 446 - Node 485: (25, 113) -> (20, 120)
+Khoảng cách: 8.60
+
+Kết nối 870:
+Node 446 - Node 487: (25, 113) -> (30, 120)
+Khoảng cách: 8.60
+
+Kết nối 871:
+Node 447 - Node 448: (30, 110) -> (35, 113)
+Khoảng cách: 5.83
+
+Kết nối 872:
+Node 448 - Node 449: (35, 113) -> (40, 110)
+Khoảng cách: 5.83
+
+Kết nối 873:
+Node 448 - Node 487: (35, 113) -> (30, 120)
+Khoảng cách: 8.60
+
+Kết nối 874:
+Node 448 - Node 489: (35, 113) -> (40, 120)
+Khoảng cách: 8.60
+
+Kết nối 875:
+Node 449 - Node 450: (40, 110) -> (45, 113)
+Khoảng cách: 5.83
+
+Kết nối 876:
+Node 450 - Node 451: (45, 113) -> (50, 110)
+Khoảng cách: 5.83
+
+Kết nối 877:
+Node 450 - Node 489: (45, 113) -> (40, 120)
+Khoảng cách: 8.60
+
+Kết nối 878:
+Node 450 - Node 491: (45, 113) -> (50, 120)
+Khoảng cách: 8.60
+
+Kết nối 879:
+Node 451 - Node 452: (50, 110) -> (55, 113)
+Khoảng cách: 5.83
+
+Kết nối 880:
+Node 452 - Node 453: (55, 113) -> (60, 110)
+Khoảng cách: 5.83
+
+Kết nối 881:
+Node 452 - Node 491: (55, 113) -> (50, 120)
+Khoảng cách: 8.60
+
+Kết nối 882:
+Node 452 - Node 493: (55, 113) -> (60, 120)
+Khoảng cách: 8.60
+
+Kết nối 883:
+Node 453 - Node 454: (60, 110) -> (65, 113)
+Khoảng cách: 5.83
+
+Kết nối 884:
+Node 454 - Node 455: (65, 113) -> (70, 110)
+Khoảng cách: 5.83
+
+Kết nối 885:
+Node 454 - Node 493: (65, 113) -> (60, 120)
+Khoảng cách: 8.60
+
+Kết nối 886:
+Node 454 - Node 495: (65, 113) -> (70, 120)
+Khoảng cách: 8.60
+
+Kết nối 887:
+Node 455 - Node 456: (70, 110) -> (75, 113)
+Khoảng cách: 5.83
+
+Kết nối 888:
+Node 456 - Node 457: (75, 113) -> (80, 110)
+Khoảng cách: 5.83
+
+Kết nối 889:
+Node 456 - Node 495: (75, 113) -> (70, 120)
+Khoảng cách: 8.60
+
+Kết nối 890:
+Node 456 - Node 497: (75, 113) -> (80, 120)
+Khoảng cách: 8.60
+
+Kết nối 891:
+Node 457 - Node 458: (80, 110) -> (85, 113)
+Khoảng cách: 5.83
+
+Kết nối 892:
+Node 458 - Node 459: (85, 113) -> (90, 110)
+Khoảng cách: 5.83
+
+Kết nối 893:
+Node 458 - Node 497: (85, 113) -> (80, 120)
+Khoảng cách: 8.60
+
+Kết nối 894:
+Node 458 - Node 499: (85, 113) -> (90, 120)
+Khoảng cách: 8.60
+
+Kết nối 895:
+Node 459 - Node 460: (90, 110) -> (95, 113)
+Khoảng cách: 5.83
+
+Kết nối 896:
+Node 460 - Node 461: (95, 113) -> (100, 110)
+Khoảng cách: 5.83
+
+Kết nối 897:
+Node 460 - Node 499: (95, 113) -> (90, 120)
+Khoảng cách: 8.60
+
+Kết nối 898:
+Node 460 - Node 501: (95, 113) -> (100, 120)
+Khoảng cách: 8.60
+
+Kết nối 899:
+Node 461 - Node 462: (100, 110) -> (105, 113)
+Khoảng cách: 5.83
+
+Kết nối 900:
+Node 462 - Node 463: (105, 113) -> (110, 110)
+Khoảng cách: 5.83
+
+Kết nối 901:
+Node 462 - Node 501: (105, 113) -> (100, 120)
+Khoảng cách: 8.60
+
+Kết nối 902:
+Node 462 - Node 503: (105, 113) -> (110, 120)
+Khoảng cách: 8.60
+
+Kết nối 903:
+Node 463 - Node 464: (110, 110) -> (115, 113)
+Khoảng cách: 5.83
+
+Kết nối 904:
+Node 464 - Node 465: (115, 113) -> (120, 110)
+Khoảng cách: 5.83
+
+Kết nối 905:
+Node 464 - Node 503: (115, 113) -> (110, 120)
+Khoảng cách: 8.60
+
+Kết nối 906:
+Node 464 - Node 505: (115, 113) -> (120, 120)
+Khoảng cách: 8.60
+
+Kết nối 907:
+Node 465 - Node 466: (120, 110) -> (125, 113)
+Khoảng cách: 5.83
+
+Kết nối 908:
+Node 466 - Node 467: (125, 113) -> (130, 110)
+Khoảng cách: 5.83
+
+Kết nối 909:
+Node 466 - Node 505: (125, 113) -> (120, 120)
+Khoảng cách: 8.60
+
+Kết nối 910:
+Node 466 - Node 507: (125, 113) -> (130, 120)
+Khoảng cách: 8.60
+
+Kết nối 911:
+Node 467 - Node 468: (130, 110) -> (135, 113)
+Khoảng cách: 5.83
+
+Kết nối 912:
+Node 468 - Node 469: (135, 113) -> (140, 110)
+Khoảng cách: 5.83
+
+Kết nối 913:
+Node 468 - Node 507: (135, 113) -> (130, 120)
+Khoảng cách: 8.60
+
+Kết nối 914:
+Node 468 - Node 509: (135, 113) -> (140, 120)
+Khoảng cách: 8.60
+
+Kết nối 915:
+Node 469 - Node 470: (140, 110) -> (145, 113)
+Khoảng cách: 5.83
+
+Kết nối 916:
+Node 470 - Node 471: (145, 113) -> (150, 110)
+Khoảng cách: 5.83
+
+Kết nối 917:
+Node 470 - Node 509: (145, 113) -> (140, 120)
+Khoảng cách: 8.60
+
+Kết nối 918:
+Node 470 - Node 511: (145, 113) -> (150, 120)
+Khoảng cách: 8.60
+
+Kết nối 919:
+Node 471 - Node 472: (150, 110) -> (155, 113)
+Khoảng cách: 5.83
+
+Kết nối 920:
+Node 472 - Node 473: (155, 113) -> (160, 110)
+Khoảng cách: 5.83
+
+Kết nối 921:
+Node 472 - Node 511: (155, 113) -> (150, 120)
+Khoảng cách: 8.60
+
+Kết nối 922:
+Node 472 - Node 513: (155, 113) -> (160, 120)
+Khoảng cách: 8.60
+
+Kết nối 923:
+Node 473 - Node 474: (160, 110) -> (165, 113)
+Khoảng cách: 5.83
+
+Kết nối 924:
+Node 474 - Node 475: (165, 113) -> (170, 110)
+Khoảng cách: 5.83
+
+Kết nối 925:
+Node 474 - Node 513: (165, 113) -> (160, 120)
+Khoảng cách: 8.60
+
+Kết nối 926:
+Node 474 - Node 515: (165, 113) -> (170, 120)
+Khoảng cách: 8.60
+
+Kết nối 927:
+Node 475 - Node 476: (170, 110) -> (175, 113)
+Khoảng cách: 5.83
+
+Kết nối 928:
+Node 476 - Node 477: (175, 113) -> (180, 110)
+Khoảng cách: 5.83
+
+Kết nối 929:
+Node 476 - Node 515: (175, 113) -> (170, 120)
+Khoảng cách: 8.60
+
+Kết nối 930:
+Node 476 - Node 517: (175, 113) -> (180, 120)
+Khoảng cách: 8.60
+
+Kết nối 931:
+Node 477 - Node 478: (180, 110) -> (185, 113)
+Khoảng cách: 5.83
+
+Kết nối 932:
+Node 478 - Node 479: (185, 113) -> (190, 110)
+Khoảng cách: 5.83
+
+Kết nối 933:
+Node 478 - Node 517: (185, 113) -> (180, 120)
+Khoảng cách: 8.60
+
+Kết nối 934:
+Node 478 - Node 519: (185, 113) -> (190, 120)
+Khoảng cách: 8.60
+
+Kết nối 935:
+Node 479 - Node 480: (190, 110) -> (195, 113)
+Khoảng cách: 5.83
+
+Kết nối 936:
+Node 480 - Node 519: (195, 113) -> (190, 120)
+Khoảng cách: 8.60
+
+Kết nối 937:
+Node 481 - Node 482: (0, 120) -> (5, 123)
+Khoảng cách: 5.83
+
+Kết nối 938:
+Node 482 - Node 483: (5, 123) -> (10, 120)
+Khoảng cách: 5.83
+
+Kết nối 939:
+Node 482 - Node 521: (5, 123) -> (0, 130)
+Khoảng cách: 8.60
+
+Kết nối 940:
+Node 482 - Node 523: (5, 123) -> (10, 130)
+Khoảng cách: 8.60
+
+Kết nối 941:
+Node 483 - Node 484: (10, 120) -> (15, 123)
+Khoảng cách: 5.83
+
+Kết nối 942:
+Node 484 - Node 485: (15, 123) -> (20, 120)
+Khoảng cách: 5.83
+
+Kết nối 943:
+Node 484 - Node 523: (15, 123) -> (10, 130)
+Khoảng cách: 8.60
+
+Kết nối 944:
+Node 484 - Node 525: (15, 123) -> (20, 130)
+Khoảng cách: 8.60
+
+Kết nối 945:
+Node 485 - Node 486: (20, 120) -> (25, 123)
+Khoảng cách: 5.83
+
+Kết nối 946:
+Node 486 - Node 487: (25, 123) -> (30, 120)
+Khoảng cách: 5.83
+
+Kết nối 947:
+Node 486 - Node 525: (25, 123) -> (20, 130)
+Khoảng cách: 8.60
+
+Kết nối 948:
+Node 486 - Node 527: (25, 123) -> (30, 130)
+Khoảng cách: 8.60
+
+Kết nối 949:
+Node 487 - Node 488: (30, 120) -> (35, 123)
+Khoảng cách: 5.83
+
+Kết nối 950:
+Node 488 - Node 489: (35, 123) -> (40, 120)
+Khoảng cách: 5.83
+
+Kết nối 951:
+Node 488 - Node 527: (35, 123) -> (30, 130)
+Khoảng cách: 8.60
+
+Kết nối 952:
+Node 488 - Node 529: (35, 123) -> (40, 130)
+Khoảng cách: 8.60
+
+Kết nối 953:
+Node 489 - Node 490: (40, 120) -> (45, 123)
+Khoảng cách: 5.83
+
+Kết nối 954:
+Node 490 - Node 491: (45, 123) -> (50, 120)
+Khoảng cách: 5.83
+
+Kết nối 955:
+Node 490 - Node 529: (45, 123) -> (40, 130)
+Khoảng cách: 8.60
+
+Kết nối 956:
+Node 490 - Node 531: (45, 123) -> (50, 130)
+Khoảng cách: 8.60
+
+Kết nối 957:
+Node 491 - Node 492: (50, 120) -> (55, 123)
+Khoảng cách: 5.83
+
+Kết nối 958:
+Node 492 - Node 493: (55, 123) -> (60, 120)
+Khoảng cách: 5.83
+
+Kết nối 959:
+Node 492 - Node 531: (55, 123) -> (50, 130)
+Khoảng cách: 8.60
+
+Kết nối 960:
+Node 492 - Node 533: (55, 123) -> (60, 130)
+Khoảng cách: 8.60
+
+Kết nối 961:
+Node 493 - Node 494: (60, 120) -> (65, 123)
+Khoảng cách: 5.83
+
+Kết nối 962:
+Node 494 - Node 495: (65, 123) -> (70, 120)
+Khoảng cách: 5.83
+
+Kết nối 963:
+Node 494 - Node 533: (65, 123) -> (60, 130)
+Khoảng cách: 8.60
+
+Kết nối 964:
+Node 494 - Node 535: (65, 123) -> (70, 130)
+Khoảng cách: 8.60
+
+Kết nối 965:
+Node 495 - Node 496: (70, 120) -> (75, 123)
+Khoảng cách: 5.83
+
+Kết nối 966:
+Node 496 - Node 497: (75, 123) -> (80, 120)
+Khoảng cách: 5.83
+
+Kết nối 967:
+Node 496 - Node 535: (75, 123) -> (70, 130)
+Khoảng cách: 8.60
+
+Kết nối 968:
+Node 496 - Node 537: (75, 123) -> (80, 130)
+Khoảng cách: 8.60
+
+Kết nối 969:
+Node 497 - Node 498: (80, 120) -> (85, 123)
+Khoảng cách: 5.83
+
+Kết nối 970:
+Node 498 - Node 499: (85, 123) -> (90, 120)
+Khoảng cách: 5.83
+
+Kết nối 971:
+Node 498 - Node 537: (85, 123) -> (80, 130)
+Khoảng cách: 8.60
+
+Kết nối 972:
+Node 498 - Node 539: (85, 123) -> (90, 130)
+Khoảng cách: 8.60
+
+Kết nối 973:
+Node 499 - Node 500: (90, 120) -> (95, 123)
+Khoảng cách: 5.83
+
+Kết nối 974:
+Node 500 - Node 501: (95, 123) -> (100, 120)
+Khoảng cách: 5.83
+
+Kết nối 975:
+Node 500 - Node 539: (95, 123) -> (90, 130)
+Khoảng cách: 8.60
+
+Kết nối 976:
+Node 500 - Node 541: (95, 123) -> (100, 130)
+Khoảng cách: 8.60
+
+Kết nối 977:
+Node 501 - Node 502: (100, 120) -> (105, 123)
+Khoảng cách: 5.83
+
+Kết nối 978:
+Node 502 - Node 503: (105, 123) -> (110, 120)
+Khoảng cách: 5.83
+
+Kết nối 979:
+Node 502 - Node 541: (105, 123) -> (100, 130)
+Khoảng cách: 8.60
+
+Kết nối 980:
+Node 502 - Node 543: (105, 123) -> (110, 130)
+Khoảng cách: 8.60
+
+Kết nối 981:
+Node 503 - Node 504: (110, 120) -> (115, 123)
+Khoảng cách: 5.83
+
+Kết nối 982:
+Node 504 - Node 505: (115, 123) -> (120, 120)
+Khoảng cách: 5.83
+
+Kết nối 983:
+Node 504 - Node 543: (115, 123) -> (110, 130)
+Khoảng cách: 8.60
+
+Kết nối 984:
+Node 504 - Node 545: (115, 123) -> (120, 130)
+Khoảng cách: 8.60
+
+Kết nối 985:
+Node 505 - Node 506: (120, 120) -> (125, 123)
+Khoảng cách: 5.83
+
+Kết nối 986:
+Node 506 - Node 507: (125, 123) -> (130, 120)
+Khoảng cách: 5.83
+
+Kết nối 987:
+Node 506 - Node 545: (125, 123) -> (120, 130)
+Khoảng cách: 8.60
+
+Kết nối 988:
+Node 506 - Node 547: (125, 123) -> (130, 130)
+Khoảng cách: 8.60
+
+Kết nối 989:
+Node 507 - Node 508: (130, 120) -> (135, 123)
+Khoảng cách: 5.83
+
+Kết nối 990:
+Node 508 - Node 509: (135, 123) -> (140, 120)
+Khoảng cách: 5.83
+
+Kết nối 991:
+Node 508 - Node 547: (135, 123) -> (130, 130)
+Khoảng cách: 8.60
+
+Kết nối 992:
+Node 508 - Node 549: (135, 123) -> (140, 130)
+Khoảng cách: 8.60
+
+Kết nối 993:
+Node 509 - Node 510: (140, 120) -> (145, 123)
+Khoảng cách: 5.83
+
+Kết nối 994:
+Node 510 - Node 511: (145, 123) -> (150, 120)
+Khoảng cách: 5.83
+
+Kết nối 995:
+Node 510 - Node 549: (145, 123) -> (140, 130)
+Khoảng cách: 8.60
+
+Kết nối 996:
+Node 510 - Node 551: (145, 123) -> (150, 130)
+Khoảng cách: 8.60
+
+Kết nối 997:
+Node 511 - Node 512: (150, 120) -> (155, 123)
+Khoảng cách: 5.83
+
+Kết nối 998:
+Node 512 - Node 513: (155, 123) -> (160, 120)
+Khoảng cách: 5.83
+
+Kết nối 999:
+Node 512 - Node 551: (155, 123) -> (150, 130)
+Khoảng cách: 8.60
+
+Kết nối 1000:
+Node 512 - Node 553: (155, 123) -> (160, 130)
+Khoảng cách: 8.60
+
+Kết nối 1001:
+Node 513 - Node 514: (160, 120) -> (165, 123)
+Khoảng cách: 5.83
+
+Kết nối 1002:
+Node 514 - Node 515: (165, 123) -> (170, 120)
+Khoảng cách: 5.83
+
+Kết nối 1003:
+Node 514 - Node 553: (165, 123) -> (160, 130)
+Khoảng cách: 8.60
+
+Kết nối 1004:
+Node 514 - Node 555: (165, 123) -> (170, 130)
+Khoảng cách: 8.60
+
+Kết nối 1005:
+Node 515 - Node 516: (170, 120) -> (175, 123)
+Khoảng cách: 5.83
+
+Kết nối 1006:
+Node 516 - Node 517: (175, 123) -> (180, 120)
+Khoảng cách: 5.83
+
+Kết nối 1007:
+Node 516 - Node 555: (175, 123) -> (170, 130)
+Khoảng cách: 8.60
+
+Kết nối 1008:
+Node 516 - Node 557: (175, 123) -> (180, 130)
+Khoảng cách: 8.60
+
+Kết nối 1009:
+Node 517 - Node 518: (180, 120) -> (185, 123)
+Khoảng cách: 5.83
+
+Kết nối 1010:
+Node 518 - Node 519: (185, 123) -> (190, 120)
+Khoảng cách: 5.83
+
+Kết nối 1011:
+Node 518 - Node 557: (185, 123) -> (180, 130)
+Khoảng cách: 8.60
+
+Kết nối 1012:
+Node 518 - Node 559: (185, 123) -> (190, 130)
+Khoảng cách: 8.60
+
+Kết nối 1013:
+Node 519 - Node 520: (190, 120) -> (195, 123)
+Khoảng cách: 5.83
+
+Kết nối 1014:
+Node 520 - Node 559: (195, 123) -> (190, 130)
+Khoảng cách: 8.60
+
+Kết nối 1015:
+Node 521 - Node 522: (0, 130) -> (5, 133)
+Khoảng cách: 5.83
+
+Kết nối 1016:
+Node 522 - Node 523: (5, 133) -> (10, 130)
+Khoảng cách: 5.83
+
+Kết nối 1017:
+Node 522 - Node 561: (5, 133) -> (0, 140)
+Khoảng cách: 8.60
+
+Kết nối 1018:
+Node 522 - Node 563: (5, 133) -> (10, 140)
+Khoảng cách: 8.60
+
+Kết nối 1019:
+Node 523 - Node 524: (10, 130) -> (15, 133)
+Khoảng cách: 5.83
+
+Kết nối 1020:
+Node 524 - Node 525: (15, 133) -> (20, 130)
+Khoảng cách: 5.83
+
+Kết nối 1021:
+Node 524 - Node 563: (15, 133) -> (10, 140)
+Khoảng cách: 8.60
+
+Kết nối 1022:
+Node 524 - Node 565: (15, 133) -> (20, 140)
+Khoảng cách: 8.60
+
+Kết nối 1023:
+Node 525 - Node 526: (20, 130) -> (25, 133)
+Khoảng cách: 5.83
+
+Kết nối 1024:
+Node 526 - Node 527: (25, 133) -> (30, 130)
+Khoảng cách: 5.83
+
+Kết nối 1025:
+Node 526 - Node 565: (25, 133) -> (20, 140)
+Khoảng cách: 8.60
+
+Kết nối 1026:
+Node 526 - Node 567: (25, 133) -> (30, 140)
+Khoảng cách: 8.60
+
+Kết nối 1027:
+Node 527 - Node 528: (30, 130) -> (35, 133)
+Khoảng cách: 5.83
+
+Kết nối 1028:
+Node 528 - Node 529: (35, 133) -> (40, 130)
+Khoảng cách: 5.83
+
+Kết nối 1029:
+Node 528 - Node 567: (35, 133) -> (30, 140)
+Khoảng cách: 8.60
+
+Kết nối 1030:
+Node 528 - Node 569: (35, 133) -> (40, 140)
+Khoảng cách: 8.60
+
+Kết nối 1031:
+Node 529 - Node 530: (40, 130) -> (45, 133)
+Khoảng cách: 5.83
+
+Kết nối 1032:
+Node 530 - Node 531: (45, 133) -> (50, 130)
+Khoảng cách: 5.83
+
+Kết nối 1033:
+Node 530 - Node 569: (45, 133) -> (40, 140)
+Khoảng cách: 8.60
+
+Kết nối 1034:
+Node 530 - Node 571: (45, 133) -> (50, 140)
+Khoảng cách: 8.60
+
+Kết nối 1035:
+Node 531 - Node 532: (50, 130) -> (55, 133)
+Khoảng cách: 5.83
+
+Kết nối 1036:
+Node 532 - Node 533: (55, 133) -> (60, 130)
+Khoảng cách: 5.83
+
+Kết nối 1037:
+Node 532 - Node 571: (55, 133) -> (50, 140)
+Khoảng cách: 8.60
+
+Kết nối 1038:
+Node 532 - Node 573: (55, 133) -> (60, 140)
+Khoảng cách: 8.60
+
+Kết nối 1039:
+Node 533 - Node 534: (60, 130) -> (65, 133)
+Khoảng cách: 5.83
+
+Kết nối 1040:
+Node 534 - Node 535: (65, 133) -> (70, 130)
+Khoảng cách: 5.83
+
+Kết nối 1041:
+Node 534 - Node 573: (65, 133) -> (60, 140)
+Khoảng cách: 8.60
+
+Kết nối 1042:
+Node 534 - Node 575: (65, 133) -> (70, 140)
+Khoảng cách: 8.60
+
+Kết nối 1043:
+Node 535 - Node 536: (70, 130) -> (75, 133)
+Khoảng cách: 5.83
+
+Kết nối 1044:
+Node 536 - Node 537: (75, 133) -> (80, 130)
+Khoảng cách: 5.83
+
+Kết nối 1045:
+Node 536 - Node 575: (75, 133) -> (70, 140)
+Khoảng cách: 8.60
+
+Kết nối 1046:
+Node 536 - Node 577: (75, 133) -> (80, 140)
+Khoảng cách: 8.60
+
+Kết nối 1047:
+Node 537 - Node 538: (80, 130) -> (85, 133)
+Khoảng cách: 5.83
+
+Kết nối 1048:
+Node 538 - Node 539: (85, 133) -> (90, 130)
+Khoảng cách: 5.83
+
+Kết nối 1049:
+Node 538 - Node 577: (85, 133) -> (80, 140)
+Khoảng cách: 8.60
+
+Kết nối 1050:
+Node 538 - Node 579: (85, 133) -> (90, 140)
+Khoảng cách: 8.60
+
+Kết nối 1051:
+Node 539 - Node 540: (90, 130) -> (95, 133)
+Khoảng cách: 5.83
+
+Kết nối 1052:
+Node 540 - Node 541: (95, 133) -> (100, 130)
+Khoảng cách: 5.83
+
+Kết nối 1053:
+Node 540 - Node 579: (95, 133) -> (90, 140)
+Khoảng cách: 8.60
+
+Kết nối 1054:
+Node 540 - Node 581: (95, 133) -> (100, 140)
+Khoảng cách: 8.60
+
+Kết nối 1055:
+Node 541 - Node 542: (100, 130) -> (105, 133)
+Khoảng cách: 5.83
+
+Kết nối 1056:
+Node 542 - Node 543: (105, 133) -> (110, 130)
+Khoảng cách: 5.83
+
+Kết nối 1057:
+Node 542 - Node 581: (105, 133) -> (100, 140)
+Khoảng cách: 8.60
+
+Kết nối 1058:
+Node 542 - Node 583: (105, 133) -> (110, 140)
+Khoảng cách: 8.60
+
+Kết nối 1059:
+Node 543 - Node 544: (110, 130) -> (115, 133)
+Khoảng cách: 5.83
+
+Kết nối 1060:
+Node 544 - Node 545: (115, 133) -> (120, 130)
+Khoảng cách: 5.83
+
+Kết nối 1061:
+Node 544 - Node 583: (115, 133) -> (110, 140)
+Khoảng cách: 8.60
+
+Kết nối 1062:
+Node 544 - Node 585: (115, 133) -> (120, 140)
+Khoảng cách: 8.60
+
+Kết nối 1063:
+Node 545 - Node 546: (120, 130) -> (125, 133)
+Khoảng cách: 5.83
+
+Kết nối 1064:
+Node 546 - Node 547: (125, 133) -> (130, 130)
+Khoảng cách: 5.83
+
+Kết nối 1065:
+Node 546 - Node 585: (125, 133) -> (120, 140)
+Khoảng cách: 8.60
+
+Kết nối 1066:
+Node 546 - Node 587: (125, 133) -> (130, 140)
+Khoảng cách: 8.60
+
+Kết nối 1067:
+Node 547 - Node 548: (130, 130) -> (135, 133)
+Khoảng cách: 5.83
+
+Kết nối 1068:
+Node 548 - Node 549: (135, 133) -> (140, 130)
+Khoảng cách: 5.83
+
+Kết nối 1069:
+Node 548 - Node 587: (135, 133) -> (130, 140)
+Khoảng cách: 8.60
+
+Kết nối 1070:
+Node 548 - Node 589: (135, 133) -> (140, 140)
+Khoảng cách: 8.60
+
+Kết nối 1071:
+Node 549 - Node 550: (140, 130) -> (145, 133)
+Khoảng cách: 5.83
+
+Kết nối 1072:
+Node 550 - Node 551: (145, 133) -> (150, 130)
+Khoảng cách: 5.83
+
+Kết nối 1073:
+Node 550 - Node 589: (145, 133) -> (140, 140)
+Khoảng cách: 8.60
+
+Kết nối 1074:
+Node 550 - Node 591: (145, 133) -> (150, 140)
+Khoảng cách: 8.60
+
+Kết nối 1075:
+Node 551 - Node 552: (150, 130) -> (155, 133)
+Khoảng cách: 5.83
+
+Kết nối 1076:
+Node 552 - Node 553: (155, 133) -> (160, 130)
+Khoảng cách: 5.83
+
+Kết nối 1077:
+Node 552 - Node 591: (155, 133) -> (150, 140)
+Khoảng cách: 8.60
+
+Kết nối 1078:
+Node 552 - Node 593: (155, 133) -> (160, 140)
+Khoảng cách: 8.60
+
+Kết nối 1079:
+Node 553 - Node 554: (160, 130) -> (165, 133)
+Khoảng cách: 5.83
+
+Kết nối 1080:
+Node 554 - Node 555: (165, 133) -> (170, 130)
+Khoảng cách: 5.83
+
+Kết nối 1081:
+Node 554 - Node 593: (165, 133) -> (160, 140)
+Khoảng cách: 8.60
+
+Kết nối 1082:
+Node 554 - Node 595: (165, 133) -> (170, 140)
+Khoảng cách: 8.60
+
+Kết nối 1083:
+Node 555 - Node 556: (170, 130) -> (175, 133)
+Khoảng cách: 5.83
+
+Kết nối 1084:
+Node 556 - Node 557: (175, 133) -> (180, 130)
+Khoảng cách: 5.83
+
+Kết nối 1085:
+Node 556 - Node 595: (175, 133) -> (170, 140)
+Khoảng cách: 8.60
+
+Kết nối 1086:
+Node 556 - Node 597: (175, 133) -> (180, 140)
+Khoảng cách: 8.60
+
+Kết nối 1087:
+Node 557 - Node 558: (180, 130) -> (185, 133)
+Khoảng cách: 5.83
+
+Kết nối 1088:
+Node 558 - Node 559: (185, 133) -> (190, 130)
+Khoảng cách: 5.83
+
+Kết nối 1089:
+Node 558 - Node 597: (185, 133) -> (180, 140)
+Khoảng cách: 8.60
+
+Kết nối 1090:
+Node 558 - Node 599: (185, 133) -> (190, 140)
+Khoảng cách: 8.60
+
+Kết nối 1091:
+Node 559 - Node 560: (190, 130) -> (195, 133)
+Khoảng cách: 5.83
+
+Kết nối 1092:
+Node 560 - Node 599: (195, 133) -> (190, 140)
+Khoảng cách: 8.60
+
+Kết nối 1093:
+Node 561 - Node 562: (0, 140) -> (5, 143)
+Khoảng cách: 5.83
+
+Kết nối 1094:
+Node 562 - Node 563: (5, 143) -> (10, 140)
+Khoảng cách: 5.83
+
+Kết nối 1095:
+Node 562 - Node 601: (5, 143) -> (0, 150)
+Khoảng cách: 8.60
+
+Kết nối 1096:
+Node 562 - Node 603: (5, 143) -> (10, 150)
+Khoảng cách: 8.60
+
+Kết nối 1097:
+Node 563 - Node 564: (10, 140) -> (15, 143)
+Khoảng cách: 5.83
+
+Kết nối 1098:
+Node 564 - Node 565: (15, 143) -> (20, 140)
+Khoảng cách: 5.83
+
+Kết nối 1099:
+Node 564 - Node 603: (15, 143) -> (10, 150)
+Khoảng cách: 8.60
+
+Kết nối 1100:
+Node 564 - Node 605: (15, 143) -> (20, 150)
+Khoảng cách: 8.60
+
+Kết nối 1101:
+Node 565 - Node 566: (20, 140) -> (25, 143)
+Khoảng cách: 5.83
+
+Kết nối 1102:
+Node 566 - Node 567: (25, 143) -> (30, 140)
+Khoảng cách: 5.83
+
+Kết nối 1103:
+Node 566 - Node 605: (25, 143) -> (20, 150)
+Khoảng cách: 8.60
+
+Kết nối 1104:
+Node 566 - Node 607: (25, 143) -> (30, 150)
+Khoảng cách: 8.60
+
+Kết nối 1105:
+Node 567 - Node 568: (30, 140) -> (35, 143)
+Khoảng cách: 5.83
+
+Kết nối 1106:
+Node 568 - Node 569: (35, 143) -> (40, 140)
+Khoảng cách: 5.83
+
+Kết nối 1107:
+Node 568 - Node 607: (35, 143) -> (30, 150)
+Khoảng cách: 8.60
+
+Kết nối 1108:
+Node 568 - Node 609: (35, 143) -> (40, 150)
+Khoảng cách: 8.60
+
+Kết nối 1109:
+Node 569 - Node 570: (40, 140) -> (45, 143)
+Khoảng cách: 5.83
+
+Kết nối 1110:
+Node 570 - Node 571: (45, 143) -> (50, 140)
+Khoảng cách: 5.83
+
+Kết nối 1111:
+Node 570 - Node 609: (45, 143) -> (40, 150)
+Khoảng cách: 8.60
+
+Kết nối 1112:
+Node 570 - Node 611: (45, 143) -> (50, 150)
+Khoảng cách: 8.60
+
+Kết nối 1113:
+Node 571 - Node 572: (50, 140) -> (55, 143)
+Khoảng cách: 5.83
+
+Kết nối 1114:
+Node 572 - Node 573: (55, 143) -> (60, 140)
+Khoảng cách: 5.83
+
+Kết nối 1115:
+Node 572 - Node 611: (55, 143) -> (50, 150)
+Khoảng cách: 8.60
+
+Kết nối 1116:
+Node 572 - Node 613: (55, 143) -> (60, 150)
+Khoảng cách: 8.60
+
+Kết nối 1117:
+Node 573 - Node 574: (60, 140) -> (65, 143)
+Khoảng cách: 5.83
+
+Kết nối 1118:
+Node 574 - Node 575: (65, 143) -> (70, 140)
+Khoảng cách: 5.83
+
+Kết nối 1119:
+Node 574 - Node 613: (65, 143) -> (60, 150)
+Khoảng cách: 8.60
+
+Kết nối 1120:
+Node 574 - Node 615: (65, 143) -> (70, 150)
+Khoảng cách: 8.60
+
+Kết nối 1121:
+Node 575 - Node 576: (70, 140) -> (75, 143)
+Khoảng cách: 5.83
+
+Kết nối 1122:
+Node 576 - Node 577: (75, 143) -> (80, 140)
+Khoảng cách: 5.83
+
+Kết nối 1123:
+Node 576 - Node 615: (75, 143) -> (70, 150)
+Khoảng cách: 8.60
+
+Kết nối 1124:
+Node 576 - Node 617: (75, 143) -> (80, 150)
+Khoảng cách: 8.60
+
+Kết nối 1125:
+Node 577 - Node 578: (80, 140) -> (85, 143)
+Khoảng cách: 5.83
+
+Kết nối 1126:
+Node 578 - Node 579: (85, 143) -> (90, 140)
+Khoảng cách: 5.83
+
+Kết nối 1127:
+Node 578 - Node 617: (85, 143) -> (80, 150)
+Khoảng cách: 8.60
+
+Kết nối 1128:
+Node 578 - Node 619: (85, 143) -> (90, 150)
+Khoảng cách: 8.60
+
+Kết nối 1129:
+Node 579 - Node 580: (90, 140) -> (95, 143)
+Khoảng cách: 5.83
+
+Kết nối 1130:
+Node 580 - Node 581: (95, 143) -> (100, 140)
+Khoảng cách: 5.83
+
+Kết nối 1131:
+Node 580 - Node 619: (95, 143) -> (90, 150)
+Khoảng cách: 8.60
+
+Kết nối 1132:
+Node 580 - Node 621: (95, 143) -> (100, 150)
+Khoảng cách: 8.60
+
+Kết nối 1133:
+Node 581 - Node 582: (100, 140) -> (105, 143)
+Khoảng cách: 5.83
+
+Kết nối 1134:
+Node 582 - Node 583: (105, 143) -> (110, 140)
+Khoảng cách: 5.83
+
+Kết nối 1135:
+Node 582 - Node 621: (105, 143) -> (100, 150)
+Khoảng cách: 8.60
+
+Kết nối 1136:
+Node 582 - Node 623: (105, 143) -> (110, 150)
+Khoảng cách: 8.60
+
+Kết nối 1137:
+Node 583 - Node 584: (110, 140) -> (115, 143)
+Khoảng cách: 5.83
+
+Kết nối 1138:
+Node 584 - Node 585: (115, 143) -> (120, 140)
+Khoảng cách: 5.83
+
+Kết nối 1139:
+Node 584 - Node 623: (115, 143) -> (110, 150)
+Khoảng cách: 8.60
+
+Kết nối 1140:
+Node 584 - Node 625: (115, 143) -> (120, 150)
+Khoảng cách: 8.60
+
+Kết nối 1141:
+Node 585 - Node 586: (120, 140) -> (125, 143)
+Khoảng cách: 5.83
+
+Kết nối 1142:
+Node 586 - Node 587: (125, 143) -> (130, 140)
+Khoảng cách: 5.83
+
+Kết nối 1143:
+Node 586 - Node 625: (125, 143) -> (120, 150)
+Khoảng cách: 8.60
+
+Kết nối 1144:
+Node 586 - Node 627: (125, 143) -> (130, 150)
+Khoảng cách: 8.60
+
+Kết nối 1145:
+Node 587 - Node 588: (130, 140) -> (135, 143)
+Khoảng cách: 5.83
+
+Kết nối 1146:
+Node 588 - Node 589: (135, 143) -> (140, 140)
+Khoảng cách: 5.83
+
+Kết nối 1147:
+Node 588 - Node 627: (135, 143) -> (130, 150)
+Khoảng cách: 8.60
+
+Kết nối 1148:
+Node 588 - Node 629: (135, 143) -> (140, 150)
+Khoảng cách: 8.60
+
+Kết nối 1149:
+Node 589 - Node 590: (140, 140) -> (145, 143)
+Khoảng cách: 5.83
+
+Kết nối 1150:
+Node 590 - Node 591: (145, 143) -> (150, 140)
+Khoảng cách: 5.83
+
+Kết nối 1151:
+Node 590 - Node 629: (145, 143) -> (140, 150)
+Khoảng cách: 8.60
+
+Kết nối 1152:
+Node 590 - Node 631: (145, 143) -> (150, 150)
+Khoảng cách: 8.60
+
+Kết nối 1153:
+Node 591 - Node 592: (150, 140) -> (155, 143)
+Khoảng cách: 5.83
+
+Kết nối 1154:
+Node 592 - Node 593: (155, 143) -> (160, 140)
+Khoảng cách: 5.83
+
+Kết nối 1155:
+Node 592 - Node 631: (155, 143) -> (150, 150)
+Khoảng cách: 8.60
+
+Kết nối 1156:
+Node 592 - Node 633: (155, 143) -> (160, 150)
+Khoảng cách: 8.60
+
+Kết nối 1157:
+Node 593 - Node 594: (160, 140) -> (165, 143)
+Khoảng cách: 5.83
+
+Kết nối 1158:
+Node 594 - Node 595: (165, 143) -> (170, 140)
+Khoảng cách: 5.83
+
+Kết nối 1159:
+Node 594 - Node 633: (165, 143) -> (160, 150)
+Khoảng cách: 8.60
+
+Kết nối 1160:
+Node 594 - Node 635: (165, 143) -> (170, 150)
+Khoảng cách: 8.60
+
+Kết nối 1161:
+Node 595 - Node 596: (170, 140) -> (175, 143)
+Khoảng cách: 5.83
+
+Kết nối 1162:
+Node 596 - Node 597: (175, 143) -> (180, 140)
+Khoảng cách: 5.83
+
+Kết nối 1163:
+Node 596 - Node 635: (175, 143) -> (170, 150)
+Khoảng cách: 8.60
+
+Kết nối 1164:
+Node 596 - Node 637: (175, 143) -> (180, 150)
+Khoảng cách: 8.60
+
+Kết nối 1165:
+Node 597 - Node 598: (180, 140) -> (185, 143)
+Khoảng cách: 5.83
+
+Kết nối 1166:
+Node 598 - Node 599: (185, 143) -> (190, 140)
+Khoảng cách: 5.83
+
+Kết nối 1167:
+Node 598 - Node 637: (185, 143) -> (180, 150)
+Khoảng cách: 8.60
+
+Kết nối 1168:
+Node 598 - Node 639: (185, 143) -> (190, 150)
+Khoảng cách: 8.60
+
+Kết nối 1169:
+Node 599 - Node 600: (190, 140) -> (195, 143)
+Khoảng cách: 5.83
+
+Kết nối 1170:
+Node 600 - Node 639: (195, 143) -> (190, 150)
+Khoảng cách: 8.60
+
+Kết nối 1171:
+Node 601 - Node 602: (0, 150) -> (5, 153)
+Khoảng cách: 5.83
+
+Kết nối 1172:
+Node 602 - Node 603: (5, 153) -> (10, 150)
+Khoảng cách: 5.83
+
+Kết nối 1173:
+Node 602 - Node 641: (5, 153) -> (0, 160)
+Khoảng cách: 8.60
+
+Kết nối 1174:
+Node 602 - Node 643: (5, 153) -> (10, 160)
+Khoảng cách: 8.60
+
+Kết nối 1175:
+Node 603 - Node 604: (10, 150) -> (15, 153)
+Khoảng cách: 5.83
+
+Kết nối 1176:
+Node 604 - Node 605: (15, 153) -> (20, 150)
+Khoảng cách: 5.83
+
+Kết nối 1177:
+Node 604 - Node 643: (15, 153) -> (10, 160)
+Khoảng cách: 8.60
+
+Kết nối 1178:
+Node 604 - Node 645: (15, 153) -> (20, 160)
+Khoảng cách: 8.60
+
+Kết nối 1179:
+Node 605 - Node 606: (20, 150) -> (25, 153)
+Khoảng cách: 5.83
+
+Kết nối 1180:
+Node 606 - Node 607: (25, 153) -> (30, 150)
+Khoảng cách: 5.83
+
+Kết nối 1181:
+Node 606 - Node 645: (25, 153) -> (20, 160)
+Khoảng cách: 8.60
+
+Kết nối 1182:
+Node 606 - Node 647: (25, 153) -> (30, 160)
+Khoảng cách: 8.60
+
+Kết nối 1183:
+Node 607 - Node 608: (30, 150) -> (35, 153)
+Khoảng cách: 5.83
+
+Kết nối 1184:
+Node 608 - Node 609: (35, 153) -> (40, 150)
+Khoảng cách: 5.83
+
+Kết nối 1185:
+Node 608 - Node 647: (35, 153) -> (30, 160)
+Khoảng cách: 8.60
+
+Kết nối 1186:
+Node 608 - Node 649: (35, 153) -> (40, 160)
+Khoảng cách: 8.60
+
+Kết nối 1187:
+Node 609 - Node 610: (40, 150) -> (45, 153)
+Khoảng cách: 5.83
+
+Kết nối 1188:
+Node 610 - Node 611: (45, 153) -> (50, 150)
+Khoảng cách: 5.83
+
+Kết nối 1189:
+Node 610 - Node 649: (45, 153) -> (40, 160)
+Khoảng cách: 8.60
+
+Kết nối 1190:
+Node 610 - Node 651: (45, 153) -> (50, 160)
+Khoảng cách: 8.60
+
+Kết nối 1191:
+Node 611 - Node 612: (50, 150) -> (55, 153)
+Khoảng cách: 5.83
+
+Kết nối 1192:
+Node 612 - Node 613: (55, 153) -> (60, 150)
+Khoảng cách: 5.83
+
+Kết nối 1193:
+Node 612 - Node 651: (55, 153) -> (50, 160)
+Khoảng cách: 8.60
+
+Kết nối 1194:
+Node 612 - Node 653: (55, 153) -> (60, 160)
+Khoảng cách: 8.60
+
+Kết nối 1195:
+Node 613 - Node 614: (60, 150) -> (65, 153)
+Khoảng cách: 5.83
+
+Kết nối 1196:
+Node 614 - Node 615: (65, 153) -> (70, 150)
+Khoảng cách: 5.83
+
+Kết nối 1197:
+Node 614 - Node 653: (65, 153) -> (60, 160)
+Khoảng cách: 8.60
+
+Kết nối 1198:
+Node 614 - Node 655: (65, 153) -> (70, 160)
+Khoảng cách: 8.60
+
+Kết nối 1199:
+Node 615 - Node 616: (70, 150) -> (75, 153)
+Khoảng cách: 5.83
+
+Kết nối 1200:
+Node 616 - Node 617: (75, 153) -> (80, 150)
+Khoảng cách: 5.83
+
+Kết nối 1201:
+Node 616 - Node 655: (75, 153) -> (70, 160)
+Khoảng cách: 8.60
+
+Kết nối 1202:
+Node 616 - Node 657: (75, 153) -> (80, 160)
+Khoảng cách: 8.60
+
+Kết nối 1203:
+Node 617 - Node 618: (80, 150) -> (85, 153)
+Khoảng cách: 5.83
+
+Kết nối 1204:
+Node 618 - Node 619: (85, 153) -> (90, 150)
+Khoảng cách: 5.83
+
+Kết nối 1205:
+Node 618 - Node 657: (85, 153) -> (80, 160)
+Khoảng cách: 8.60
+
+Kết nối 1206:
+Node 618 - Node 659: (85, 153) -> (90, 160)
+Khoảng cách: 8.60
+
+Kết nối 1207:
+Node 619 - Node 620: (90, 150) -> (95, 153)
+Khoảng cách: 5.83
+
+Kết nối 1208:
+Node 620 - Node 621: (95, 153) -> (100, 150)
+Khoảng cách: 5.83
+
+Kết nối 1209:
+Node 620 - Node 659: (95, 153) -> (90, 160)
+Khoảng cách: 8.60
+
+Kết nối 1210:
+Node 620 - Node 661: (95, 153) -> (100, 160)
+Khoảng cách: 8.60
+
+Kết nối 1211:
+Node 621 - Node 622: (100, 150) -> (105, 153)
+Khoảng cách: 5.83
+
+Kết nối 1212:
+Node 622 - Node 623: (105, 153) -> (110, 150)
+Khoảng cách: 5.83
+
+Kết nối 1213:
+Node 622 - Node 661: (105, 153) -> (100, 160)
+Khoảng cách: 8.60
+
+Kết nối 1214:
+Node 622 - Node 663: (105, 153) -> (110, 160)
+Khoảng cách: 8.60
+
+Kết nối 1215:
+Node 623 - Node 624: (110, 150) -> (115, 153)
+Khoảng cách: 5.83
+
+Kết nối 1216:
+Node 624 - Node 625: (115, 153) -> (120, 150)
+Khoảng cách: 5.83
+
+Kết nối 1217:
+Node 624 - Node 663: (115, 153) -> (110, 160)
+Khoảng cách: 8.60
+
+Kết nối 1218:
+Node 624 - Node 665: (115, 153) -> (120, 160)
+Khoảng cách: 8.60
+
+Kết nối 1219:
+Node 625 - Node 626: (120, 150) -> (125, 153)
+Khoảng cách: 5.83
+
+Kết nối 1220:
+Node 626 - Node 627: (125, 153) -> (130, 150)
+Khoảng cách: 5.83
+
+Kết nối 1221:
+Node 626 - Node 665: (125, 153) -> (120, 160)
+Khoảng cách: 8.60
+
+Kết nối 1222:
+Node 626 - Node 667: (125, 153) -> (130, 160)
+Khoảng cách: 8.60
+
+Kết nối 1223:
+Node 627 - Node 628: (130, 150) -> (135, 153)
+Khoảng cách: 5.83
+
+Kết nối 1224:
+Node 628 - Node 629: (135, 153) -> (140, 150)
+Khoảng cách: 5.83
+
+Kết nối 1225:
+Node 628 - Node 667: (135, 153) -> (130, 160)
+Khoảng cách: 8.60
+
+Kết nối 1226:
+Node 628 - Node 669: (135, 153) -> (140, 160)
+Khoảng cách: 8.60
+
+Kết nối 1227:
+Node 629 - Node 630: (140, 150) -> (145, 153)
+Khoảng cách: 5.83
+
+Kết nối 1228:
+Node 630 - Node 631: (145, 153) -> (150, 150)
+Khoảng cách: 5.83
+
+Kết nối 1229:
+Node 630 - Node 669: (145, 153) -> (140, 160)
+Khoảng cách: 8.60
+
+Kết nối 1230:
+Node 630 - Node 671: (145, 153) -> (150, 160)
+Khoảng cách: 8.60
+
+Kết nối 1231:
+Node 631 - Node 632: (150, 150) -> (155, 153)
+Khoảng cách: 5.83
+
+Kết nối 1232:
+Node 632 - Node 633: (155, 153) -> (160, 150)
+Khoảng cách: 5.83
+
+Kết nối 1233:
+Node 632 - Node 671: (155, 153) -> (150, 160)
+Khoảng cách: 8.60
+
+Kết nối 1234:
+Node 632 - Node 673: (155, 153) -> (160, 160)
+Khoảng cách: 8.60
+
+Kết nối 1235:
+Node 633 - Node 634: (160, 150) -> (165, 153)
+Khoảng cách: 5.83
+
+Kết nối 1236:
+Node 634 - Node 635: (165, 153) -> (170, 150)
+Khoảng cách: 5.83
+
+Kết nối 1237:
+Node 634 - Node 673: (165, 153) -> (160, 160)
+Khoảng cách: 8.60
+
+Kết nối 1238:
+Node 634 - Node 675: (165, 153) -> (170, 160)
+Khoảng cách: 8.60
+
+Kết nối 1239:
+Node 635 - Node 636: (170, 150) -> (175, 153)
+Khoảng cách: 5.83
+
+Kết nối 1240:
+Node 636 - Node 637: (175, 153) -> (180, 150)
+Khoảng cách: 5.83
+
+Kết nối 1241:
+Node 636 - Node 675: (175, 153) -> (170, 160)
+Khoảng cách: 8.60
+
+Kết nối 1242:
+Node 636 - Node 677: (175, 153) -> (180, 160)
+Khoảng cách: 8.60
+
+Kết nối 1243:
+Node 637 - Node 638: (180, 150) -> (185, 153)
+Khoảng cách: 5.83
+
+Kết nối 1244:
+Node 638 - Node 639: (185, 153) -> (190, 150)
+Khoảng cách: 5.83
+
+Kết nối 1245:
+Node 638 - Node 677: (185, 153) -> (180, 160)
+Khoảng cách: 8.60
+
+Kết nối 1246:
+Node 638 - Node 679: (185, 153) -> (190, 160)
+Khoảng cách: 8.60
+
+Kết nối 1247:
+Node 639 - Node 640: (190, 150) -> (195, 153)
+Khoảng cách: 5.83
+
+Kết nối 1248:
+Node 640 - Node 679: (195, 153) -> (190, 160)
+Khoảng cách: 8.60
+
+Kết nối 1249:
+Node 641 - Node 642: (0, 160) -> (5, 163)
+Khoảng cách: 5.83
+
+Kết nối 1250:
+Node 642 - Node 643: (5, 163) -> (10, 160)
+Khoảng cách: 5.83
+
+Kết nối 1251:
+Node 642 - Node 681: (5, 163) -> (0, 170)
+Khoảng cách: 8.60
+
+Kết nối 1252:
+Node 642 - Node 683: (5, 163) -> (10, 170)
+Khoảng cách: 8.60
+
+Kết nối 1253:
+Node 643 - Node 644: (10, 160) -> (15, 163)
+Khoảng cách: 5.83
+
+Kết nối 1254:
+Node 644 - Node 645: (15, 163) -> (20, 160)
+Khoảng cách: 5.83
+
+Kết nối 1255:
+Node 644 - Node 683: (15, 163) -> (10, 170)
+Khoảng cách: 8.60
+
+Kết nối 1256:
+Node 644 - Node 685: (15, 163) -> (20, 170)
+Khoảng cách: 8.60
+
+Kết nối 1257:
+Node 645 - Node 646: (20, 160) -> (25, 163)
+Khoảng cách: 5.83
+
+Kết nối 1258:
+Node 646 - Node 647: (25, 163) -> (30, 160)
+Khoảng cách: 5.83
+
+Kết nối 1259:
+Node 646 - Node 685: (25, 163) -> (20, 170)
+Khoảng cách: 8.60
+
+Kết nối 1260:
+Node 646 - Node 687: (25, 163) -> (30, 170)
+Khoảng cách: 8.60
+
+Kết nối 1261:
+Node 647 - Node 648: (30, 160) -> (35, 163)
+Khoảng cách: 5.83
+
+Kết nối 1262:
+Node 648 - Node 649: (35, 163) -> (40, 160)
+Khoảng cách: 5.83
+
+Kết nối 1263:
+Node 648 - Node 687: (35, 163) -> (30, 170)
+Khoảng cách: 8.60
+
+Kết nối 1264:
+Node 648 - Node 689: (35, 163) -> (40, 170)
+Khoảng cách: 8.60
+
+Kết nối 1265:
+Node 649 - Node 650: (40, 160) -> (45, 163)
+Khoảng cách: 5.83
+
+Kết nối 1266:
+Node 650 - Node 651: (45, 163) -> (50, 160)
+Khoảng cách: 5.83
+
+Kết nối 1267:
+Node 650 - Node 689: (45, 163) -> (40, 170)
+Khoảng cách: 8.60
+
+Kết nối 1268:
+Node 650 - Node 691: (45, 163) -> (50, 170)
+Khoảng cách: 8.60
+
+Kết nối 1269:
+Node 651 - Node 652: (50, 160) -> (55, 163)
+Khoảng cách: 5.83
+
+Kết nối 1270:
+Node 652 - Node 653: (55, 163) -> (60, 160)
+Khoảng cách: 5.83
+
+Kết nối 1271:
+Node 652 - Node 691: (55, 163) -> (50, 170)
+Khoảng cách: 8.60
+
+Kết nối 1272:
+Node 652 - Node 693: (55, 163) -> (60, 170)
+Khoảng cách: 8.60
+
+Kết nối 1273:
+Node 653 - Node 654: (60, 160) -> (65, 163)
+Khoảng cách: 5.83
+
+Kết nối 1274:
+Node 654 - Node 655: (65, 163) -> (70, 160)
+Khoảng cách: 5.83
+
+Kết nối 1275:
+Node 654 - Node 693: (65, 163) -> (60, 170)
+Khoảng cách: 8.60
+
+Kết nối 1276:
+Node 654 - Node 695: (65, 163) -> (70, 170)
+Khoảng cách: 8.60
+
+Kết nối 1277:
+Node 655 - Node 656: (70, 160) -> (75, 163)
+Khoảng cách: 5.83
+
+Kết nối 1278:
+Node 656 - Node 657: (75, 163) -> (80, 160)
+Khoảng cách: 5.83
+
+Kết nối 1279:
+Node 656 - Node 695: (75, 163) -> (70, 170)
+Khoảng cách: 8.60
+
+Kết nối 1280:
+Node 656 - Node 697: (75, 163) -> (80, 170)
+Khoảng cách: 8.60
+
+Kết nối 1281:
+Node 657 - Node 658: (80, 160) -> (85, 163)
+Khoảng cách: 5.83
+
+Kết nối 1282:
+Node 658 - Node 659: (85, 163) -> (90, 160)
+Khoảng cách: 5.83
+
+Kết nối 1283:
+Node 658 - Node 697: (85, 163) -> (80, 170)
+Khoảng cách: 8.60
+
+Kết nối 1284:
+Node 658 - Node 699: (85, 163) -> (90, 170)
+Khoảng cách: 8.60
+
+Kết nối 1285:
+Node 659 - Node 660: (90, 160) -> (95, 163)
+Khoảng cách: 5.83
+
+Kết nối 1286:
+Node 660 - Node 661: (95, 163) -> (100, 160)
+Khoảng cách: 5.83
+
+Kết nối 1287:
+Node 660 - Node 699: (95, 163) -> (90, 170)
+Khoảng cách: 8.60
+
+Kết nối 1288:
+Node 660 - Node 701: (95, 163) -> (100, 170)
+Khoảng cách: 8.60
+
+Kết nối 1289:
+Node 661 - Node 662: (100, 160) -> (105, 163)
+Khoảng cách: 5.83
+
+Kết nối 1290:
+Node 662 - Node 663: (105, 163) -> (110, 160)
+Khoảng cách: 5.83
+
+Kết nối 1291:
+Node 662 - Node 701: (105, 163) -> (100, 170)
+Khoảng cách: 8.60
+
+Kết nối 1292:
+Node 662 - Node 703: (105, 163) -> (110, 170)
+Khoảng cách: 8.60
+
+Kết nối 1293:
+Node 663 - Node 664: (110, 160) -> (115, 163)
+Khoảng cách: 5.83
+
+Kết nối 1294:
+Node 664 - Node 665: (115, 163) -> (120, 160)
+Khoảng cách: 5.83
+
+Kết nối 1295:
+Node 664 - Node 703: (115, 163) -> (110, 170)
+Khoảng cách: 8.60
+
+Kết nối 1296:
+Node 664 - Node 705: (115, 163) -> (120, 170)
+Khoảng cách: 8.60
+
+Kết nối 1297:
+Node 665 - Node 666: (120, 160) -> (125, 163)
+Khoảng cách: 5.83
+
+Kết nối 1298:
+Node 666 - Node 667: (125, 163) -> (130, 160)
+Khoảng cách: 5.83
+
+Kết nối 1299:
+Node 666 - Node 705: (125, 163) -> (120, 170)
+Khoảng cách: 8.60
+
+Kết nối 1300:
+Node 666 - Node 707: (125, 163) -> (130, 170)
+Khoảng cách: 8.60
+
+Kết nối 1301:
+Node 667 - Node 668: (130, 160) -> (135, 163)
+Khoảng cách: 5.83
+
+Kết nối 1302:
+Node 668 - Node 669: (135, 163) -> (140, 160)
+Khoảng cách: 5.83
+
+Kết nối 1303:
+Node 668 - Node 707: (135, 163) -> (130, 170)
+Khoảng cách: 8.60
+
+Kết nối 1304:
+Node 668 - Node 709: (135, 163) -> (140, 170)
+Khoảng cách: 8.60
+
+Kết nối 1305:
+Node 669 - Node 670: (140, 160) -> (145, 163)
+Khoảng cách: 5.83
+
+Kết nối 1306:
+Node 670 - Node 671: (145, 163) -> (150, 160)
+Khoảng cách: 5.83
+
+Kết nối 1307:
+Node 670 - Node 709: (145, 163) -> (140, 170)
+Khoảng cách: 8.60
+
+Kết nối 1308:
+Node 670 - Node 711: (145, 163) -> (150, 170)
+Khoảng cách: 8.60
+
+Kết nối 1309:
+Node 671 - Node 672: (150, 160) -> (155, 163)
+Khoảng cách: 5.83
+
+Kết nối 1310:
+Node 672 - Node 673: (155, 163) -> (160, 160)
+Khoảng cách: 5.83
+
+Kết nối 1311:
+Node 672 - Node 711: (155, 163) -> (150, 170)
+Khoảng cách: 8.60
+
+Kết nối 1312:
+Node 672 - Node 713: (155, 163) -> (160, 170)
+Khoảng cách: 8.60
+
+Kết nối 1313:
+Node 673 - Node 674: (160, 160) -> (165, 163)
+Khoảng cách: 5.83
+
+Kết nối 1314:
+Node 674 - Node 675: (165, 163) -> (170, 160)
+Khoảng cách: 5.83
+
+Kết nối 1315:
+Node 674 - Node 713: (165, 163) -> (160, 170)
+Khoảng cách: 8.60
+
+Kết nối 1316:
+Node 674 - Node 715: (165, 163) -> (170, 170)
+Khoảng cách: 8.60
+
+Kết nối 1317:
+Node 675 - Node 676: (170, 160) -> (175, 163)
+Khoảng cách: 5.83
+
+Kết nối 1318:
+Node 676 - Node 677: (175, 163) -> (180, 160)
+Khoảng cách: 5.83
+
+Kết nối 1319:
+Node 676 - Node 715: (175, 163) -> (170, 170)
+Khoảng cách: 8.60
+
+Kết nối 1320:
+Node 676 - Node 717: (175, 163) -> (180, 170)
+Khoảng cách: 8.60
+
+Kết nối 1321:
+Node 677 - Node 678: (180, 160) -> (185, 163)
+Khoảng cách: 5.83
+
+Kết nối 1322:
+Node 678 - Node 679: (185, 163) -> (190, 160)
+Khoảng cách: 5.83
+
+Kết nối 1323:
+Node 678 - Node 717: (185, 163) -> (180, 170)
+Khoảng cách: 8.60
+
+Kết nối 1324:
+Node 678 - Node 719: (185, 163) -> (190, 170)
+Khoảng cách: 8.60
+
+Kết nối 1325:
+Node 679 - Node 680: (190, 160) -> (195, 163)
+Khoảng cách: 5.83
+
+Kết nối 1326:
+Node 680 - Node 719: (195, 163) -> (190, 170)
+Khoảng cách: 8.60
+
+Kết nối 1327:
+Node 681 - Node 682: (0, 170) -> (5, 173)
+Khoảng cách: 5.83
+
+Kết nối 1328:
+Node 682 - Node 683: (5, 173) -> (10, 170)
+Khoảng cách: 5.83
+
+Kết nối 1329:
+Node 682 - Node 721: (5, 173) -> (0, 180)
+Khoảng cách: 8.60
+
+Kết nối 1330:
+Node 682 - Node 723: (5, 173) -> (10, 180)
+Khoảng cách: 8.60
+
+Kết nối 1331:
+Node 683 - Node 684: (10, 170) -> (15, 173)
+Khoảng cách: 5.83
+
+Kết nối 1332:
+Node 684 - Node 685: (15, 173) -> (20, 170)
+Khoảng cách: 5.83
+
+Kết nối 1333:
+Node 684 - Node 723: (15, 173) -> (10, 180)
+Khoảng cách: 8.60
+
+Kết nối 1334:
+Node 684 - Node 725: (15, 173) -> (20, 180)
+Khoảng cách: 8.60
+
+Kết nối 1335:
+Node 685 - Node 686: (20, 170) -> (25, 173)
+Khoảng cách: 5.83
+
+Kết nối 1336:
+Node 686 - Node 687: (25, 173) -> (30, 170)
+Khoảng cách: 5.83
+
+Kết nối 1337:
+Node 686 - Node 725: (25, 173) -> (20, 180)
+Khoảng cách: 8.60
+
+Kết nối 1338:
+Node 686 - Node 727: (25, 173) -> (30, 180)
+Khoảng cách: 8.60
+
+Kết nối 1339:
+Node 687 - Node 688: (30, 170) -> (35, 173)
+Khoảng cách: 5.83
+
+Kết nối 1340:
+Node 688 - Node 689: (35, 173) -> (40, 170)
+Khoảng cách: 5.83
+
+Kết nối 1341:
+Node 688 - Node 727: (35, 173) -> (30, 180)
+Khoảng cách: 8.60
+
+Kết nối 1342:
+Node 688 - Node 729: (35, 173) -> (40, 180)
+Khoảng cách: 8.60
+
+Kết nối 1343:
+Node 689 - Node 690: (40, 170) -> (45, 173)
+Khoảng cách: 5.83
+
+Kết nối 1344:
+Node 690 - Node 691: (45, 173) -> (50, 170)
+Khoảng cách: 5.83
+
+Kết nối 1345:
+Node 690 - Node 729: (45, 173) -> (40, 180)
+Khoảng cách: 8.60
+
+Kết nối 1346:
+Node 690 - Node 731: (45, 173) -> (50, 180)
+Khoảng cách: 8.60
+
+Kết nối 1347:
+Node 691 - Node 692: (50, 170) -> (55, 173)
+Khoảng cách: 5.83
+
+Kết nối 1348:
+Node 692 - Node 693: (55, 173) -> (60, 170)
+Khoảng cách: 5.83
+
+Kết nối 1349:
+Node 692 - Node 731: (55, 173) -> (50, 180)
+Khoảng cách: 8.60
+
+Kết nối 1350:
+Node 692 - Node 733: (55, 173) -> (60, 180)
+Khoảng cách: 8.60
+
+Kết nối 1351:
+Node 693 - Node 694: (60, 170) -> (65, 173)
+Khoảng cách: 5.83
+
+Kết nối 1352:
+Node 694 - Node 695: (65, 173) -> (70, 170)
+Khoảng cách: 5.83
+
+Kết nối 1353:
+Node 694 - Node 733: (65, 173) -> (60, 180)
+Khoảng cách: 8.60
+
+Kết nối 1354:
+Node 694 - Node 735: (65, 173) -> (70, 180)
+Khoảng cách: 8.60
+
+Kết nối 1355:
+Node 695 - Node 696: (70, 170) -> (75, 173)
+Khoảng cách: 5.83
+
+Kết nối 1356:
+Node 696 - Node 697: (75, 173) -> (80, 170)
+Khoảng cách: 5.83
+
+Kết nối 1357:
+Node 696 - Node 735: (75, 173) -> (70, 180)
+Khoảng cách: 8.60
+
+Kết nối 1358:
+Node 696 - Node 737: (75, 173) -> (80, 180)
+Khoảng cách: 8.60
+
+Kết nối 1359:
+Node 697 - Node 698: (80, 170) -> (85, 173)
+Khoảng cách: 5.83
+
+Kết nối 1360:
+Node 698 - Node 699: (85, 173) -> (90, 170)
+Khoảng cách: 5.83
+
+Kết nối 1361:
+Node 698 - Node 737: (85, 173) -> (80, 180)
+Khoảng cách: 8.60
+
+Kết nối 1362:
+Node 698 - Node 739: (85, 173) -> (90, 180)
+Khoảng cách: 8.60
+
+Kết nối 1363:
+Node 699 - Node 700: (90, 170) -> (95, 173)
+Khoảng cách: 5.83
+
+Kết nối 1364:
+Node 700 - Node 701: (95, 173) -> (100, 170)
+Khoảng cách: 5.83
+
+Kết nối 1365:
+Node 700 - Node 739: (95, 173) -> (90, 180)
+Khoảng cách: 8.60
+
+Kết nối 1366:
+Node 700 - Node 741: (95, 173) -> (100, 180)
+Khoảng cách: 8.60
+
+Kết nối 1367:
+Node 701 - Node 702: (100, 170) -> (105, 173)
+Khoảng cách: 5.83
+
+Kết nối 1368:
+Node 702 - Node 703: (105, 173) -> (110, 170)
+Khoảng cách: 5.83
+
+Kết nối 1369:
+Node 702 - Node 741: (105, 173) -> (100, 180)
+Khoảng cách: 8.60
+
+Kết nối 1370:
+Node 702 - Node 743: (105, 173) -> (110, 180)
+Khoảng cách: 8.60
+
+Kết nối 1371:
+Node 703 - Node 704: (110, 170) -> (115, 173)
+Khoảng cách: 5.83
+
+Kết nối 1372:
+Node 704 - Node 705: (115, 173) -> (120, 170)
+Khoảng cách: 5.83
+
+Kết nối 1373:
+Node 704 - Node 743: (115, 173) -> (110, 180)
+Khoảng cách: 8.60
+
+Kết nối 1374:
+Node 704 - Node 745: (115, 173) -> (120, 180)
+Khoảng cách: 8.60
+
+Kết nối 1375:
+Node 705 - Node 706: (120, 170) -> (125, 173)
+Khoảng cách: 5.83
+
+Kết nối 1376:
+Node 706 - Node 707: (125, 173) -> (130, 170)
+Khoảng cách: 5.83
+
+Kết nối 1377:
+Node 706 - Node 745: (125, 173) -> (120, 180)
+Khoảng cách: 8.60
+
+Kết nối 1378:
+Node 706 - Node 747: (125, 173) -> (130, 180)
+Khoảng cách: 8.60
+
+Kết nối 1379:
+Node 707 - Node 708: (130, 170) -> (135, 173)
+Khoảng cách: 5.83
+
+Kết nối 1380:
+Node 708 - Node 709: (135, 173) -> (140, 170)
+Khoảng cách: 5.83
+
+Kết nối 1381:
+Node 708 - Node 747: (135, 173) -> (130, 180)
+Khoảng cách: 8.60
+
+Kết nối 1382:
+Node 708 - Node 749: (135, 173) -> (140, 180)
+Khoảng cách: 8.60
+
+Kết nối 1383:
+Node 709 - Node 710: (140, 170) -> (145, 173)
+Khoảng cách: 5.83
+
+Kết nối 1384:
+Node 710 - Node 711: (145, 173) -> (150, 170)
+Khoảng cách: 5.83
+
+Kết nối 1385:
+Node 710 - Node 749: (145, 173) -> (140, 180)
+Khoảng cách: 8.60
+
+Kết nối 1386:
+Node 710 - Node 751: (145, 173) -> (150, 180)
+Khoảng cách: 8.60
+
+Kết nối 1387:
+Node 711 - Node 712: (150, 170) -> (155, 173)
+Khoảng cách: 5.83
+
+Kết nối 1388:
+Node 712 - Node 713: (155, 173) -> (160, 170)
+Khoảng cách: 5.83
+
+Kết nối 1389:
+Node 712 - Node 751: (155, 173) -> (150, 180)
+Khoảng cách: 8.60
+
+Kết nối 1390:
+Node 712 - Node 753: (155, 173) -> (160, 180)
+Khoảng cách: 8.60
+
+Kết nối 1391:
+Node 713 - Node 714: (160, 170) -> (165, 173)
+Khoảng cách: 5.83
+
+Kết nối 1392:
+Node 714 - Node 715: (165, 173) -> (170, 170)
+Khoảng cách: 5.83
+
+Kết nối 1393:
+Node 714 - Node 753: (165, 173) -> (160, 180)
+Khoảng cách: 8.60
+
+Kết nối 1394:
+Node 714 - Node 755: (165, 173) -> (170, 180)
+Khoảng cách: 8.60
+
+Kết nối 1395:
+Node 715 - Node 716: (170, 170) -> (175, 173)
+Khoảng cách: 5.83
+
+Kết nối 1396:
+Node 716 - Node 717: (175, 173) -> (180, 170)
+Khoảng cách: 5.83
+
+Kết nối 1397:
+Node 716 - Node 755: (175, 173) -> (170, 180)
+Khoảng cách: 8.60
+
+Kết nối 1398:
+Node 716 - Node 757: (175, 173) -> (180, 180)
+Khoảng cách: 8.60
+
+Kết nối 1399:
+Node 717 - Node 718: (180, 170) -> (185, 173)
+Khoảng cách: 5.83
+
+Kết nối 1400:
+Node 718 - Node 719: (185, 173) -> (190, 170)
+Khoảng cách: 5.83
+
+Kết nối 1401:
+Node 718 - Node 757: (185, 173) -> (180, 180)
+Khoảng cách: 8.60
+
+Kết nối 1402:
+Node 718 - Node 759: (185, 173) -> (190, 180)
+Khoảng cách: 8.60
+
+Kết nối 1403:
+Node 719 - Node 720: (190, 170) -> (195, 173)
+Khoảng cách: 5.83
+
+Kết nối 1404:
+Node 720 - Node 759: (195, 173) -> (190, 180)
+Khoảng cách: 8.60
+
+Kết nối 1405:
+Node 721 - Node 722: (0, 180) -> (5, 183)
+Khoảng cách: 5.83
+
+Kết nối 1406:
+Node 722 - Node 723: (5, 183) -> (10, 180)
+Khoảng cách: 5.83
+
+Kết nối 1407:
+Node 722 - Node 761: (5, 183) -> (0, 190)
+Khoảng cách: 8.60
+
+Kết nối 1408:
+Node 722 - Node 763: (5, 183) -> (10, 190)
+Khoảng cách: 8.60
+
+Kết nối 1409:
+Node 723 - Node 724: (10, 180) -> (15, 183)
+Khoảng cách: 5.83
+
+Kết nối 1410:
+Node 724 - Node 725: (15, 183) -> (20, 180)
+Khoảng cách: 5.83
+
+Kết nối 1411:
+Node 724 - Node 763: (15, 183) -> (10, 190)
+Khoảng cách: 8.60
+
+Kết nối 1412:
+Node 724 - Node 765: (15, 183) -> (20, 190)
+Khoảng cách: 8.60
+
+Kết nối 1413:
+Node 725 - Node 726: (20, 180) -> (25, 183)
+Khoảng cách: 5.83
+
+Kết nối 1414:
+Node 726 - Node 727: (25, 183) -> (30, 180)
+Khoảng cách: 5.83
+
+Kết nối 1415:
+Node 726 - Node 765: (25, 183) -> (20, 190)
+Khoảng cách: 8.60
+
+Kết nối 1416:
+Node 726 - Node 767: (25, 183) -> (30, 190)
+Khoảng cách: 8.60
+
+Kết nối 1417:
+Node 727 - Node 728: (30, 180) -> (35, 183)
+Khoảng cách: 5.83
+
+Kết nối 1418:
+Node 728 - Node 729: (35, 183) -> (40, 180)
+Khoảng cách: 5.83
+
+Kết nối 1419:
+Node 728 - Node 767: (35, 183) -> (30, 190)
+Khoảng cách: 8.60
+
+Kết nối 1420:
+Node 728 - Node 769: (35, 183) -> (40, 190)
+Khoảng cách: 8.60
+
+Kết nối 1421:
+Node 729 - Node 730: (40, 180) -> (45, 183)
+Khoảng cách: 5.83
+
+Kết nối 1422:
+Node 730 - Node 731: (45, 183) -> (50, 180)
+Khoảng cách: 5.83
+
+Kết nối 1423:
+Node 730 - Node 769: (45, 183) -> (40, 190)
+Khoảng cách: 8.60
+
+Kết nối 1424:
+Node 730 - Node 771: (45, 183) -> (50, 190)
+Khoảng cách: 8.60
+
+Kết nối 1425:
+Node 731 - Node 732: (50, 180) -> (55, 183)
+Khoảng cách: 5.83
+
+Kết nối 1426:
+Node 732 - Node 733: (55, 183) -> (60, 180)
+Khoảng cách: 5.83
+
+Kết nối 1427:
+Node 732 - Node 771: (55, 183) -> (50, 190)
+Khoảng cách: 8.60
+
+Kết nối 1428:
+Node 732 - Node 773: (55, 183) -> (60, 190)
+Khoảng cách: 8.60
+
+Kết nối 1429:
+Node 733 - Node 734: (60, 180) -> (65, 183)
+Khoảng cách: 5.83
+
+Kết nối 1430:
+Node 734 - Node 735: (65, 183) -> (70, 180)
+Khoảng cách: 5.83
+
+Kết nối 1431:
+Node 734 - Node 773: (65, 183) -> (60, 190)
+Khoảng cách: 8.60
+
+Kết nối 1432:
+Node 734 - Node 775: (65, 183) -> (70, 190)
+Khoảng cách: 8.60
+
+Kết nối 1433:
+Node 735 - Node 736: (70, 180) -> (75, 183)
+Khoảng cách: 5.83
+
+Kết nối 1434:
+Node 736 - Node 737: (75, 183) -> (80, 180)
+Khoảng cách: 5.83
+
+Kết nối 1435:
+Node 736 - Node 775: (75, 183) -> (70, 190)
+Khoảng cách: 8.60
+
+Kết nối 1436:
+Node 736 - Node 777: (75, 183) -> (80, 190)
+Khoảng cách: 8.60
+
+Kết nối 1437:
+Node 737 - Node 738: (80, 180) -> (85, 183)
+Khoảng cách: 5.83
+
+Kết nối 1438:
+Node 738 - Node 739: (85, 183) -> (90, 180)
+Khoảng cách: 5.83
+
+Kết nối 1439:
+Node 738 - Node 777: (85, 183) -> (80, 190)
+Khoảng cách: 8.60
+
+Kết nối 1440:
+Node 738 - Node 779: (85, 183) -> (90, 190)
+Khoảng cách: 8.60
+
+Kết nối 1441:
+Node 739 - Node 740: (90, 180) -> (95, 183)
+Khoảng cách: 5.83
+
+Kết nối 1442:
+Node 740 - Node 741: (95, 183) -> (100, 180)
+Khoảng cách: 5.83
+
+Kết nối 1443:
+Node 740 - Node 779: (95, 183) -> (90, 190)
+Khoảng cách: 8.60
+
+Kết nối 1444:
+Node 740 - Node 781: (95, 183) -> (100, 190)
+Khoảng cách: 8.60
+
+Kết nối 1445:
+Node 741 - Node 742: (100, 180) -> (105, 183)
+Khoảng cách: 5.83
+
+Kết nối 1446:
+Node 742 - Node 743: (105, 183) -> (110, 180)
+Khoảng cách: 5.83
+
+Kết nối 1447:
+Node 742 - Node 781: (105, 183) -> (100, 190)
+Khoảng cách: 8.60
+
+Kết nối 1448:
+Node 742 - Node 783: (105, 183) -> (110, 190)
+Khoảng cách: 8.60
+
+Kết nối 1449:
+Node 743 - Node 744: (110, 180) -> (115, 183)
+Khoảng cách: 5.83
+
+Kết nối 1450:
+Node 744 - Node 745: (115, 183) -> (120, 180)
+Khoảng cách: 5.83
+
+Kết nối 1451:
+Node 744 - Node 783: (115, 183) -> (110, 190)
+Khoảng cách: 8.60
+
+Kết nối 1452:
+Node 744 - Node 785: (115, 183) -> (120, 190)
+Khoảng cách: 8.60
+
+Kết nối 1453:
+Node 745 - Node 746: (120, 180) -> (125, 183)
+Khoảng cách: 5.83
+
+Kết nối 1454:
+Node 746 - Node 747: (125, 183) -> (130, 180)
+Khoảng cách: 5.83
+
+Kết nối 1455:
+Node 746 - Node 785: (125, 183) -> (120, 190)
+Khoảng cách: 8.60
+
+Kết nối 1456:
+Node 746 - Node 787: (125, 183) -> (130, 190)
+Khoảng cách: 8.60
+
+Kết nối 1457:
+Node 747 - Node 748: (130, 180) -> (135, 183)
+Khoảng cách: 5.83
+
+Kết nối 1458:
+Node 748 - Node 749: (135, 183) -> (140, 180)
+Khoảng cách: 5.83
+
+Kết nối 1459:
+Node 748 - Node 787: (135, 183) -> (130, 190)
+Khoảng cách: 8.60
+
+Kết nối 1460:
+Node 748 - Node 789: (135, 183) -> (140, 190)
+Khoảng cách: 8.60
+
+Kết nối 1461:
+Node 749 - Node 750: (140, 180) -> (145, 183)
+Khoảng cách: 5.83
+
+Kết nối 1462:
+Node 750 - Node 751: (145, 183) -> (150, 180)
+Khoảng cách: 5.83
+
+Kết nối 1463:
+Node 750 - Node 789: (145, 183) -> (140, 190)
+Khoảng cách: 8.60
+
+Kết nối 1464:
+Node 750 - Node 791: (145, 183) -> (150, 190)
+Khoảng cách: 8.60
+
+Kết nối 1465:
+Node 751 - Node 752: (150, 180) -> (155, 183)
+Khoảng cách: 5.83
+
+Kết nối 1466:
+Node 752 - Node 753: (155, 183) -> (160, 180)
+Khoảng cách: 5.83
+
+Kết nối 1467:
+Node 752 - Node 791: (155, 183) -> (150, 190)
+Khoảng cách: 8.60
+
+Kết nối 1468:
+Node 752 - Node 793: (155, 183) -> (160, 190)
+Khoảng cách: 8.60
+
+Kết nối 1469:
+Node 753 - Node 754: (160, 180) -> (165, 183)
+Khoảng cách: 5.83
+
+Kết nối 1470:
+Node 754 - Node 755: (165, 183) -> (170, 180)
+Khoảng cách: 5.83
+
+Kết nối 1471:
+Node 754 - Node 793: (165, 183) -> (160, 190)
+Khoảng cách: 8.60
+
+Kết nối 1472:
+Node 754 - Node 795: (165, 183) -> (170, 190)
+Khoảng cách: 8.60
+
+Kết nối 1473:
+Node 755 - Node 756: (170, 180) -> (175, 183)
+Khoảng cách: 5.83
+
+Kết nối 1474:
+Node 756 - Node 757: (175, 183) -> (180, 180)
+Khoảng cách: 5.83
+
+Kết nối 1475:
+Node 756 - Node 795: (175, 183) -> (170, 190)
+Khoảng cách: 8.60
+
+Kết nối 1476:
+Node 756 - Node 797: (175, 183) -> (180, 190)
+Khoảng cách: 8.60
+
+Kết nối 1477:
+Node 757 - Node 758: (180, 180) -> (185, 183)
+Khoảng cách: 5.83
+
+Kết nối 1478:
+Node 758 - Node 759: (185, 183) -> (190, 180)
+Khoảng cách: 5.83
+
+Kết nối 1479:
+Node 758 - Node 797: (185, 183) -> (180, 190)
+Khoảng cách: 8.60
+
+Kết nối 1480:
+Node 758 - Node 799: (185, 183) -> (190, 190)
+Khoảng cách: 8.60
+
+Kết nối 1481:
+Node 759 - Node 760: (190, 180) -> (195, 183)
+Khoảng cách: 5.83
+
+Kết nối 1482:
+Node 760 - Node 799: (195, 183) -> (190, 190)
+Khoảng cách: 8.60
+
+Kết nối 1483:
+Node 761 - Node 762: (0, 190) -> (5, 193)
+Khoảng cách: 5.83
+
+Kết nối 1484:
+Node 762 - Node 763: (5, 193) -> (10, 190)
+Khoảng cách: 5.83
+
+Kết nối 1485:
+Node 763 - Node 764: (10, 190) -> (15, 193)
+Khoảng cách: 5.83
+
+Kết nối 1486:
+Node 764 - Node 765: (15, 193) -> (20, 190)
+Khoảng cách: 5.83
+
+Kết nối 1487:
+Node 765 - Node 766: (20, 190) -> (25, 193)
+Khoảng cách: 5.83
+
+Kết nối 1488:
+Node 766 - Node 767: (25, 193) -> (30, 190)
+Khoảng cách: 5.83
+
+Kết nối 1489:
+Node 767 - Node 768: (30, 190) -> (35, 193)
+Khoảng cách: 5.83
+
+Kết nối 1490:
+Node 768 - Node 769: (35, 193) -> (40, 190)
+Khoảng cách: 5.83
+
+Kết nối 1491:
+Node 769 - Node 770: (40, 190) -> (45, 193)
+Khoảng cách: 5.83
+
+Kết nối 1492:
+Node 770 - Node 771: (45, 193) -> (50, 190)
+Khoảng cách: 5.83
+
+Kết nối 1493:
+Node 771 - Node 772: (50, 190) -> (55, 193)
+Khoảng cách: 5.83
+
+Kết nối 1494:
+Node 772 - Node 773: (55, 193) -> (60, 190)
+Khoảng cách: 5.83
+
+Kết nối 1495:
+Node 773 - Node 774: (60, 190) -> (65, 193)
+Khoảng cách: 5.83
+
+Kết nối 1496:
+Node 774 - Node 775: (65, 193) -> (70, 190)
+Khoảng cách: 5.83
+
+Kết nối 1497:
+Node 775 - Node 776: (70, 190) -> (75, 193)
+Khoảng cách: 5.83
+
+Kết nối 1498:
+Node 776 - Node 777: (75, 193) -> (80, 190)
+Khoảng cách: 5.83
+
+Kết nối 1499:
+Node 777 - Node 778: (80, 190) -> (85, 193)
+Khoảng cách: 5.83
+
+Kết nối 1500:
+Node 778 - Node 779: (85, 193) -> (90, 190)
+Khoảng cách: 5.83
+
+Kết nối 1501:
+Node 779 - Node 780: (90, 190) -> (95, 193)
+Khoảng cách: 5.83
+
+Kết nối 1502:
+Node 780 - Node 781: (95, 193) -> (100, 190)
+Khoảng cách: 5.83
+
+Kết nối 1503:
+Node 781 - Node 782: (100, 190) -> (105, 193)
+Khoảng cách: 5.83
+
+Kết nối 1504:
+Node 782 - Node 783: (105, 193) -> (110, 190)
+Khoảng cách: 5.83
+
+Kết nối 1505:
+Node 783 - Node 784: (110, 190) -> (115, 193)
+Khoảng cách: 5.83
+
+Kết nối 1506:
+Node 784 - Node 785: (115, 193) -> (120, 190)
+Khoảng cách: 5.83
+
+Kết nối 1507:
+Node 785 - Node 786: (120, 190) -> (125, 193)
+Khoảng cách: 5.83
+
+Kết nối 1508:
+Node 786 - Node 787: (125, 193) -> (130, 190)
+Khoảng cách: 5.83
+
+Kết nối 1509:
+Node 787 - Node 788: (130, 190) -> (135, 193)
+Khoảng cách: 5.83
+
+Kết nối 1510:
+Node 788 - Node 789: (135, 193) -> (140, 190)
+Khoảng cách: 5.83
+
+Kết nối 1511:
+Node 789 - Node 790: (140, 190) -> (145, 193)
+Khoảng cách: 5.83
+
+Kết nối 1512:
+Node 790 - Node 791: (145, 193) -> (150, 190)
+Khoảng cách: 5.83
+
+Kết nối 1513:
+Node 791 - Node 792: (150, 190) -> (155, 193)
+Khoảng cách: 5.83
+
+Kết nối 1514:
+Node 792 - Node 793: (155, 193) -> (160, 190)
+Khoảng cách: 5.83
+
+Kết nối 1515:
+Node 793 - Node 794: (160, 190) -> (165, 193)
+Khoảng cách: 5.83
+
+Kết nối 1516:
+Node 794 - Node 795: (165, 193) -> (170, 190)
+Khoảng cách: 5.83
+
+Kết nối 1517:
+Node 795 - Node 796: (170, 190) -> (175, 193)
+Khoảng cách: 5.83
+
+Kết nối 1518:
+Node 796 - Node 797: (175, 193) -> (180, 190)
+Khoảng cách: 5.83
+
+Kết nối 1519:
+Node 797 - Node 798: (180, 190) -> (185, 193)
+Khoảng cách: 5.83
+
+Kết nối 1520:
+Node 798 - Node 799: (185, 193) -> (190, 190)
+Khoảng cách: 5.83
+
+Kết nối 1521:
+Node 799 - Node 800: (190, 190) -> (195, 193)
+Khoảng cách: 5.83
+
